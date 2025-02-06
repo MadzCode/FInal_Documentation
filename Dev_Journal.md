@@ -1,9 +1,9 @@
 # Development Commentary Template
 
 ## Project Outline
-- Provide a concise description of the project, including its core concept and purpose.  
-- Outline the initial goals or objectives you aim to achieve.  
-- Identify any anticipated challenges or potential issues that may arise during development.
+- At Death We Part is a 2.5D platformer with light and dark mechanics to help the player progress in the story. There is two characters one who has light powers and can only stand in light, asnd the other who has dark powers and can only stand in darkness. 
+- My inital goal is to create a functional core mechanic that I can then add to. Then after that is completed I will then add more mechanics and polish to the game.    
+- The most immediate challange I may face is making the light mechanic work and only light up the part of the platform it is touching. Another issue may be miscommunication from teammembers.  
 
 ## Research
 
