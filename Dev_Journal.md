@@ -21,10 +21,16 @@
 - Describe how the academic research applies to your project and shapes your design and development decisions.
 
 ### Documentation Sources  
+https://www.youtube.com/watch?v=ZmIzHtglnMM&t=96s
 - Investigate relevant documentation, tutorials, or instructional videos that provide technical insights into your tasks. Summarise the content and its relevance to your project.  
 - Explain how this technical knowledge supports your project work and guides your decision-making process.
 
 ## Implementation
+# Camera Mechanic
+-![image](https://github.com/user-attachments/assets/685477d2-3b9f-4bc2-ab77-65d83dccc652)
+![image](https://github.com/user-attachments/assets/5b969e1e-b0e8-49c0-9ba4-1785cb8c729f)
+- The camera is not looking at the correct location, cannot rotate camera
+
 
 ### Process
 - Provide a step-by-step breakdown of your development process, including key milestones and decisions made throughout the project.  
@@ -60,6 +66,12 @@
 - Include any necessary instructions for running the build, such as system requirements or installation steps.
 
 ### Video Demonstration
+
+# Camera System
+https://github.com/user-attachments/assets/40c8aa02-0b36-4c1b-8484-994910464370
+- First Attempt
+
+
 - Embed a video or provide a link to a recorded demonstration of your project in action.  
 - The video should showcase key features, functionality, and any unique elements of your project.  
 - Include a brief commentary or text overlay in the video to explain the different aspects of your project as they are shown.
