@@ -31,7 +31,13 @@ https://blueprintue.com/blueprint/eknuf5e9/
 - I decided to completly remake the character movement to allow me to create better 3d movement
 - my artist James Davies created some rough sprites to allow me to make sure the movement looks correct
 https://www.youtube.com/watch?v=0f1_qSXbqAI
-![Idle](https://github.com/user-attachments/assets/a622cdd7-09a5-41d6-886a-9f99cd2a0699)
+![Idle](https://github.com/user-attachments/assets/9ae707b5-522d-446e-b81f-570db16941b3)
+![Jumping](https://github.com/user-attachments/assets/8121c110-4142-409d-a37f-df4e9cbf5ff4)
+![Walking Transition](https://github.com/user-attachments/assets/e7842da4-34b3-4cf6-a773-08b211b06062)
+![Walk 1](https://github.com/user-attachments/assets/30576ac0-5e46-43ce-8c65-45d1fd019bde)
+![Walk 2](https://github.com/user-attachments/assets/eb8e19f2-8828-4c4a-b3d1-98b7be93e38c)
+
+
 
 -Added PaperZD
 https://www.fab.com/listings/6664e3b5-e376-47aa-a0dd-f7bbbd5b93c0
