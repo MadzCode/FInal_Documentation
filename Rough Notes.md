@@ -55,7 +55,17 @@ https://www.fab.com/listings/6664e3b5-e376-47aa-a0dd-f7bbbd5b93c0
 - Added PaperZD AnimBP
 ![image](https://github.com/user-attachments/assets/a9f8575b-dbc0-439a-9168-cfebbdc325eb)
 
+- Imported the Sprites
+![image](https://github.com/user-attachments/assets/211283cd-c94f-4d13-9f1a-215a36b72cc7)
+![image](https://github.com/user-attachments/assets/777ac99c-a964-407f-9355-750105bcbec3)
 
+- then I turned them all into sprites using the create sprite menu
+![image](https://github.com/user-attachments/assets/6c3197dd-1a04-40ae-aaef-4f3a46ac20bf)
 
+- Then I turned all of the sprites into Flipbooks
+![image](https://github.com/user-attachments/assets/4175dd69-13f8-4a3b-bbee-fc2538ee736c)
+![image](https://github.com/user-attachments/assets/cde3c1f2-fb43-4a08-910f-b9c985024b5e)
 
+- Animation Preview
+![Early Walking Anim](https://github.com/user-attachments/assets/ea1b6d52-dc67-4891-ab60-ce0b2eef51b2)
 
