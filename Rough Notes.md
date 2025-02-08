@@ -43,4 +43,19 @@ https://www.youtube.com/watch?v=0f1_qSXbqAI
 https://www.fab.com/listings/6664e3b5-e376-47aa-a0dd-f7bbbd5b93c0
 ![image](https://github.com/user-attachments/assets/da6a5260-5478-4a76-8043-0c865821c29c)
 
+- Made Player_BP
+![image](https://github.com/user-attachments/assets/58286c68-50f8-4232-bc31-f4bd49cb2c21)
+
+- Made Player Controller
+![image](https://github.com/user-attachments/assets/a6df1f63-ed60-41e1-8ce8-af23628dd670)
+
+- Added Animation Source
+![image](https://github.com/user-attachments/assets/964e1dde-a7b2-4fdb-a4ba-78d792f2439c)
+
+- Added PaperZD AnimBP
+![image](https://github.com/user-attachments/assets/a9f8575b-dbc0-439a-9168-cfebbdc325eb)
+
+
+
+
 
