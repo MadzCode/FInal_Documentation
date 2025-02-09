@@ -41,6 +41,7 @@ https://www.youtube.com/watch?v=0f1_qSXbqAI
 
 -Added PaperZD
 https://www.fab.com/listings/6664e3b5-e376-47aa-a0dd-f7bbbd5b93c0
+https://www.youtube.com/watch?v=0f1_qSXbqAI
 ![image](https://github.com/user-attachments/assets/da6a5260-5478-4a76-8043-0c865821c29c)
 
 - Made Player_BP
@@ -68,4 +69,19 @@ https://www.fab.com/listings/6664e3b5-e376-47aa-a0dd-f7bbbd5b93c0
 
 - Animation Preview
 ![Early Walking Anim](https://github.com/user-attachments/assets/ea1b6d52-dc67-4891-ab60-ce0b2eef51b2)
+
+- Added sprit to player bp
+![image](https://github.com/user-attachments/assets/f6ae2c97-509f-4d64-a4c5-750dc0b28d6e)
+
+- casting a shadow
+ ![image](https://github.com/user-attachments/assets/fce2366e-a86a-48cf-8867-8aa29326f3f6)
+
+- I made it a MaskedLitSpriteMaterial to make sure the character can have light shine on it to   
+![image](https://github.com/user-attachments/assets/fd46c3b4-35a7-49ac-a57c-1346c44bf092)
+
+- overwrote the old gamemode with my new one so it work
+![image](https://github.com/user-attachments/assets/a930a011-25ca-4ed3-acf4-a9597f081fe8)
+
+- Made some state machines and added animations inside
+![image](https://github.com/user-attachments/assets/6584b957-32dd-43e8-b0e7-11a88ac84efc)
 
