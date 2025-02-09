@@ -82,6 +82,10 @@ https://www.youtube.com/watch?v=0f1_qSXbqAI
 - overwrote the old gamemode with my new one so it work
 ![image](https://github.com/user-attachments/assets/a930a011-25ca-4ed3-acf4-a9597f081fe8)
 
-- Made some state machines and added animations inside
-![image](https://github.com/user-attachments/assets/6584b957-32dd-43e8-b0e7-11a88ac84efc)
+- Finished Animations and added a jump
+
+
+https://github.com/user-attachments/assets/6d6cf995-6812-4653-82d7-826e06ff5a99
+
+
 
