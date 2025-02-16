@@ -23,6 +23,9 @@ https://blueprintue.com/blueprint/d6-zmgms/
 https://blueprintue.com/blueprint/eknuf5e9/ 
 - Spline Movement
 
+I went for more of a resident evil feel but it feels a bit sudden, it will be temporary until i get the spline to work correctly
+https://www.youtube.com/watch?v=O7SjrIrY_io
+
 ## Light System
 
 ## 2 Player System
