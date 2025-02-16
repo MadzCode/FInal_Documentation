@@ -23,8 +23,18 @@ https://blueprintue.com/blueprint/d6-zmgms/
 https://blueprintue.com/blueprint/eknuf5e9/ 
 - Spline Movement
 
-I went for more of a resident evil feel but it feels a bit sudden, it will be temporary until i get the spline to work correctly
+I went for more of a resident evil feel but it feels a bit sudden
 https://www.youtube.com/watch?v=O7SjrIrY_io
+
+https://github.com/user-attachments/assets/884cf8c0-9d5a-4080-8d93-a591b34ba2d4
+
+https://github.com/user-attachments/assets/cf017509-7dea-4670-a708-345a69fa9988
+
+I made the Camera not follow the player and It looks better I will research more into animating the camera
+
+
+
+
 
 ## Light System
 
