@@ -38,13 +38,8 @@
 -![image](https://github.com/user-attachments/assets/685477d2-3b9f-4bc2-ab77-65d83dccc652)
 ![image](https://github.com/user-attachments/assets/5b969e1e-b0e8-49c0-9ba4-1785cb8c729f)
 // add videos at home // 
-- The camera is not looking at the correct location, cannot rotate camera
 
 - I fixed the way the camera was facing but now I need to make it so the camera is segmented.
-
-- I was having an issue of being able to turn the camera even though the game was in 2D making the movement controls weird. This was a simple fix I just added the mouse onto the screen all the time to disable camera movement. It is also set up for the power mechanics which will need the mouse to operate.
-
-<iframe src="https://blueprintue.com/render/d6-zmgms/" scrolling="no" allowfullscreen></iframe>
 
 - Spline Movement BP:
 <iframe src="https://blueprintue.com/render/d6-zmgms/" scrolling="no" allowfullscreen></iframe>
@@ -98,7 +93,13 @@
 
 ### Technical Difficulties
 <!-- Here is where you need to specify any issues your encountered and how you fixed or didnt fix them. its ok not to be able to fix things, you can justify why you didnt fix, maybe time, maybe its noticable, etc. -->
+### Camera System
+
+- The camera is not looking at the correct location, cannot rotate camera
 - Identify any technical difficulties encountered during the implementation phase.  
+- I was having an issue of being able to turn the camera even though the game was in 2D making the movement controls weird. This was a simple fix I just added the mouse onto the screen all the time to disable camera movement. It is also set up for the power mechanics which will need the mouse to operate.
+
+<iframe src="https://blueprintue.com/render/d6-zmgms/" scrolling="no" allowfullscreen></iframe>
 - Provide details on how these issues were diagnosed and resolved.  
 - If any difficulties remain unresolved, explain the impact on the project and any mitigation strategies used to minimise their effect.  
 - Reflect on what you would do differently in future projects to avoid similar issues.
