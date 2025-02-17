@@ -97,6 +97,9 @@
 - Include screenshots, diagrams, or code snippets where relevant to showcase your progress.
 
 ### New Approaches  
+
+### Camera System
+- originally the player camera was going to be static and fly to the next room when the player walked into it, However, I found the spline to be finicky so I gave the camera a more standard look. If I have some spare time I will look into creating it again. But for now the camera works as intended. 
 - Detail any innovative or new approaches you explored during the project.  
 - Explain why these approaches were chosen and how they differ from standard practices.  
 - Evaluate the success of these approaches, including any challenges faced and lessons learned.
