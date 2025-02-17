@@ -100,6 +100,7 @@
 - I was having an issue of being able to turn the camera even though the game was in 2D making the movement controls weird. This was a simple fix I just added the mouse onto the screen all the time to disable camera movement. It is also set up for the power mechanics which will need the mouse to operate.
 
 <iframe src="https://blueprintue.com/render/d6-zmgms/" scrolling="no" allowfullscreen></iframe>
+
 - Provide details on how these issues were diagnosed and resolved.  
 - If any difficulties remain unresolved, explain the impact on the project and any mitigation strategies used to minimise their effect.  
 - Reflect on what you would do differently in future projects to avoid similar issues.
