@@ -58,9 +58,25 @@
 // Add Video //
 # 2D Movement
 
-
-
-
+- I decided to remake the third person character template with my own 2D one.
+- My groupmate artist James created all of the player sprites.
+// add sprite image //
+- I created this using the paper ZD plugin to create 2D characters faster and more easily.
+- Added Paper ZD https://www.fab.com/listings/6664e3b5-e376-47aa-a0dd-f7bbbd5b93c0 // Fix Citation //
+![alt text](image.png)
+- Made the Player_BP
+- I then made a PaperZDCharacter class.
+ ![alt text](image-1.png)
+ - Added player controller
+ ![alt text](image-2.png)
+ - Added Animation Source 
+![alt text](image-3.png)
+- Added PaperZD AnimBP
+![alt text](image-4.png)
+- Imported the textures and converted them into sprites
+![alt text](image-5.png)
+ ![alt text](image-6.png)
+ - I turned all of the sprites into flipbooks to allow me to animate them.
 ### Process
 - Provide a step-by-step breakdown of your development process, including key milestones and decisions made throughout the project.  
 - Highlight any tools, frameworks, or techniques used, and explain how they contributed to the implementation.  
