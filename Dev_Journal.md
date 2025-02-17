@@ -33,11 +33,29 @@
 
 ## Implementation
 # Camera Mechanic
+
+- For the Camera Mechanic I want the camera to be on a static spline, when the player leaves the room the camera will fly to the next room.
 -![image](https://github.com/user-attachments/assets/685477d2-3b9f-4bc2-ab77-65d83dccc652)
 ![image](https://github.com/user-attachments/assets/5b969e1e-b0e8-49c0-9ba4-1785cb8c729f)
-
+// add videos at home // 
 - The camera is not looking at the correct location, cannot rotate camera
 
+- I fixed the way the camera was facing but now I need to make it so the camera is segmented.
+
+- I was having an issue of being able to turn the camera even though the game was in 2D making the movement controls weird. This was a simple fix I just added the mouse onto the screen all the time to disable camera movement. It is also set up for the power mechanics which will need the mouse to operate.
+
+<iframe src="https://blueprintue.com/render/d6-zmgms/" scrolling="no" allowfullscreen></iframe>
+
+- Spline Movement BP:
+<iframe src="https://blueprintue.com/render/d6-zmgms/" scrolling="no" allowfullscreen></iframe>
+
+- I wasn't a fan of how this looked so I used the Residant Evil camera system as a reference and implemented it into the game.
+
+// add video // 
+
+- I didnt like how the camera moved so I disabled the movement and made the camera completly static.
+
+// Add Video //
 # 2D Movement
 
 
