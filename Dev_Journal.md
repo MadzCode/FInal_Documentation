@@ -59,28 +59,15 @@
 # 2D Movement
 
 - I decided to remake the third person character template with my own 2D one.
-- My groupmate artist James created all of the player sprites.
-// add sprite image //
-<!-- You don't need to mention this -->
 - I created this using the paper ZD plugin to create 2D characters faster and more easily.
 <!-- This is good, you should research this plugin in your research section. -->
 - Added Paper ZD https://www.fab.com/listings/6664e3b5-e376-47aa-a0dd-f7bbbd5b93c0 // Fix Citation //
-![alt text](image.png)
 - Made the Player_BP
 - I then made a PaperZDCharacter class.
- ![alt text](image-1.png)
- - Added player controller
- ![alt text](image-2.png)
  - Added Animation Source 
-![alt text](image-3.png)
 - Added PaperZD AnimBP
-![alt text](image-4.png)
 - Imported the textures and converted them into sprites
-![alt text](image-5.png)
- ![alt text](image-6.png)
  - I turned all of the sprites into flipbooks to allow me to animate them.
- ![alt text](image-7.png)
- ![alt text](image-8.png)
 
  <!-- waaay to many images, you only need maybe a gif of the character moving around, or being animated in paperzd -->
 
@@ -88,13 +75,9 @@
 // add GIF //
 
 - I Added the new sprite to the Player_BP
-![alt text](image-10.png)
 - To make the lighting more releastic I added cast shadow in the details tab, this will make the lighting look more realistic on the character.
-![alt text](image-11.png)
 - To ensure that this works in the matarials I added a MaskedLitSpriteMaterial so that the light works on the character correctly.
 ![alt text](image-12.png)
-- Then I overwrote my old gamemode with me newly created one so there wouldnt be any issues with my new character.
-![alt text](image-13.png)
 ### Process
 - Provide a step-by-step breakdown of your development process, including key milestones and decisions made throughout the project.  
 - Highlight any tools, frameworks, or techniques used, and explain how they contributed to the implementation.  
