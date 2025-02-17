@@ -77,6 +77,20 @@
 ![alt text](image-5.png)
  ![alt text](image-6.png)
  - I turned all of the sprites into flipbooks to allow me to animate them.
+ ![alt text](image-7.png)
+ ![alt text](image-8.png)
+
+ ### Animation Preview
+// add GIF //
+
+- I Added the new sprite to the Player_BP
+![alt text](image-10.png)
+- To make the lighting more releastic I added cast shadow in the details tab, this will make the lighting look more realistic on the character.
+![alt text](image-11.png)
+- To ensure that this works in the matarials I added a MaskedLitSpriteMaterial so that the light works on the character correctly.
+![alt text](image-12.png)
+- Then I overwrote my old gamemode with me newly created one so there wouldnt be any issues with my new character.
+![alt text](image-13.png)
 ### Process
 - Provide a step-by-step breakdown of your development process, including key milestones and decisions made throughout the project.  
 - Highlight any tools, frameworks, or techniques used, and explain how they contributed to the implementation.  
