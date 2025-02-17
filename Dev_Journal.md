@@ -61,7 +61,9 @@
 - I decided to remake the third person character template with my own 2D one.
 - My groupmate artist James created all of the player sprites.
 // add sprite image //
+<!-- You don't need to mention this -->
 - I created this using the paper ZD plugin to create 2D characters faster and more easily.
+<!-- This is good, you should research this plugin in your research section. -->
 - Added Paper ZD https://www.fab.com/listings/6664e3b5-e376-47aa-a0dd-f7bbbd5b93c0 // Fix Citation //
 ![alt text](image.png)
 - Made the Player_BP
@@ -79,6 +81,8 @@
  - I turned all of the sprites into flipbooks to allow me to animate them.
  ![alt text](image-7.png)
  ![alt text](image-8.png)
+
+ <!-- waaay to many images, you only need maybe a gif of the character moving around, or being animated in paperzd -->
 
  ### Animation Preview
 // add GIF //
@@ -110,6 +114,7 @@
 - Describe how these issues were addressed. If any issues were not resolved, provide a clear justification for leaving them unaddressed.
 
 ### Technical Difficulties
+<!-- Here is where you need to specify any issues your encountered and how you fixed or didnt fix them. its ok not to be able to fix things, you can justify why you didnt fix, maybe time, maybe its noticable, etc. -->
 - Identify any technical difficulties encountered during the implementation phase.  
 - Provide details on how these issues were diagnosed and resolved.  
 - If any difficulties remain unresolved, explain the impact on the project and any mitigation strategies used to minimise their effect.  
