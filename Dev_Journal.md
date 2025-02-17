@@ -21,7 +21,9 @@
 - Describe how the academic research applies to your project and shapes your design and development decisions.
 
 ### Documentation Sources  
-https://www.youtube.com/watch?v=ZmIzHtglnMM&t=96s
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZmIzHtglnMM?si=jhqRReVfk8Fhn_sV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7SjrIrY_io?si=xUh4iTc1JVeLD4Mm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 - Investigate relevant documentation, tutorials, or instructional videos that provide technical insights into your tasks. Summarise the content and its relevance to your project.  
 - Explain how this technical knowledge supports your project work and guides your decision-making process.
 
@@ -29,6 +31,7 @@ https://www.youtube.com/watch?v=ZmIzHtglnMM&t=96s
 # Camera Mechanic
 -![image](https://github.com/user-attachments/assets/685477d2-3b9f-4bc2-ab77-65d83dccc652)
 ![image](https://github.com/user-attachments/assets/5b969e1e-b0e8-49c0-9ba4-1785cb8c729f)
+
 - The camera is not looking at the correct location, cannot rotate camera
 
 # 2D Movement
