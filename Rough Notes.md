@@ -100,5 +100,9 @@ https://www.youtube.com/watch?v=0f1_qSXbqAI
 
 https://github.com/user-attachments/assets/6d6cf995-6812-4653-82d7-826e06ff5a99
 
+### Cursor Mechanic
+![image](https://github.com/user-attachments/assets/bca8ea41-f575-4122-ae6f-75db2460fd18)
+https://www.youtube.com/watch?v=8VZtDdKApeM
+
 
 
