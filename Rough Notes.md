@@ -128,5 +128,10 @@ https://github.com/user-attachments/assets/eb4b25b6-87b9-4951-a73c-77c19b8a1aeb
 ![image](https://github.com/user-attachments/assets/bca8ea41-f575-4122-ae6f-75db2460fd18)
 https://www.youtube.com/watch?v=8VZtDdKApeM
 
+### Shadow Character powers
+https://blueprintue.com/blueprint/41-2dd55/
 
+
+
+https://github.com/user-attachments/assets/2219d771-c042-4e6b-a59a-d5daed33b345
 
