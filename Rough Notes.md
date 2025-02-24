@@ -97,6 +97,8 @@ https://www.youtube.com/watch?v=0f1_qSXbqAI
 
 - Finished Animations and added a jump
 
+https://www.youtube.com/watch?v=aWkgOr5U-zI
+- Reworking the movement
 
 https://github.com/user-attachments/assets/6d6cf995-6812-4653-82d7-826e06ff5a99
 
