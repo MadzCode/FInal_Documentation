@@ -141,3 +141,7 @@ https://blueprintue.com/blueprint/41-2dd55/
 
 https://github.com/user-attachments/assets/2219d771-c042-4e6b-a59a-d5daed33b345
 
+### CSV File (Dialogue)
+https://gdcvault.com/play/1025055/Audio-Asset-Management-Tips-and
+https://dev.epicgames.com/documentation/en-us/unreal-engine/data-driven-gameplay-elements-in-unreal-engine?application_version=5.4
+https://docs.google.com/spreadsheets/d/1-5I0bgjq7tCaSo0pwK05oLpwlT2uFYdOTOCDr0gBt6o/edit?gid=0#gid=0
