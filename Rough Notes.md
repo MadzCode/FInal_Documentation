@@ -131,6 +131,8 @@ https://www.youtube.com/watch?v=8VZtDdKApeM
 ### UI
 <img width="1252" alt="{08FFB487-965C-4603-8FBF-8B7FBAAA8412}" src="https://github.com/user-attachments/assets/565679bd-121d-4e01-abcd-b12c5a2ec5a1" />
 
+https://www.youtube.com/watch?v=kumZj_mov58&t=266s
+
 
 ### Shadow Character powers
 https://blueprintue.com/blueprint/41-2dd55/
