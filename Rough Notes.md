@@ -104,7 +104,15 @@ https://www.youtube.com/watch?v=aWkgOr5U-zI
 https://blueprintue.com/blueprint/o0i6lbe8/
 - Reworking the movement
 
+![image](https://github.com/user-attachments/assets/9468fd03-1a60-4d18-a002-09ab43a55c3b)
+
+![image](https://github.com/user-attachments/assets/0f4f6302-f984-4f10-81e0-5ad34f5903af)
+
+https://www.youtube.com/watch?v=KZWybxR46-4
+
 https://github.com/user-attachments/assets/6d6cf995-6812-4653-82d7-826e06ff5a99
+
+https://github.com/user-attachments/assets/39ba90dc-81fc-468d-9d50-9dc6a16e37e9
 
 ### Cursor Mechanic
 ![image](https://github.com/user-attachments/assets/bca8ea41-f575-4122-ae6f-75db2460fd18)
