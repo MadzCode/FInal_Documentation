@@ -98,6 +98,10 @@ https://www.youtube.com/watch?v=0f1_qSXbqAI
 - Finished Animations and added a jump
 
 https://www.youtube.com/watch?v=aWkgOr5U-zI
+
+- The code worked fine until I tried to use a flip flop to deal with the animations, trying state machines instead
+  
+https://blueprintue.com/blueprint/o0i6lbe8/
 - Reworking the movement
 
 https://github.com/user-attachments/assets/6d6cf995-6812-4653-82d7-826e06ff5a99
