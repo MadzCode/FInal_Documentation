@@ -133,6 +133,7 @@ https://www.youtube.com/watch?v=8VZtDdKApeM
 
 https://www.youtube.com/watch?v=kumZj_mov58&t=266s
 
+https://www.youtube.com/watch?v=Ff67XtqgSxc&t=103s
 
 ### Shadow Character powers
 https://blueprintue.com/blueprint/41-2dd55/
