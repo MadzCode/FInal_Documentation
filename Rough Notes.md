@@ -131,6 +131,10 @@ https://www.youtube.com/watch?v=8VZtDdKApeM
 ### UI
 <img width="1252" alt="{08FFB487-965C-4603-8FBF-8B7FBAAA8412}" src="https://github.com/user-attachments/assets/565679bd-121d-4e01-abcd-b12c5a2ec5a1" />
 
+
+https://github.com/user-attachments/assets/6129a141-02ff-4d4a-9e4f-22ea746900cc
+
+
 https://www.youtube.com/watch?v=kumZj_mov58&t=266s
 
 https://www.youtube.com/watch?v=Ff67XtqgSxc&t=103s
