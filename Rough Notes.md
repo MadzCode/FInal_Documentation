@@ -147,6 +147,10 @@ https://www.youtube.com/watch?v=kumZj_mov58&t=266s
 
 https://www.youtube.com/watch?v=Ff67XtqgSxc&t=103s
 
+Overwrote the esc shortcut so there is a pause menu
+![image](https://github.com/user-attachments/assets/35b11460-27e0-4150-b284-166cf00179f5)
+
+https://www.youtube.com/watch?v=lacx5J8FoXI
 ### Shadow Character powers
 https://blueprintue.com/blueprint/41-2dd55/
 
