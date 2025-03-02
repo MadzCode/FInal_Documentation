@@ -160,6 +160,8 @@ issue with the dialogue doing the print string but not the text of the dialogue
 
 https://github.com/user-attachments/assets/f1de46bc-05a7-46ea-9ad1-47cea7af8cc2
 
+this video for dialogue
+https://www.youtube.com/watch?v=Z8q1eMU2Gjo
 
 ### Shadow Character powers
 https://blueprintue.com/blueprint/41-2dd55/
