@@ -155,6 +155,12 @@ https://www.youtube.com/watch?v=lacx5J8FoXI
 I was having issues of the pause code not unpausing but I fixed it using this forum
 https://forums.unrealengine.com/t/trying-to-get-the-game-to-pause-unpause-with-the-same-button-messes-with-my-controls/253670
 
+issue with the dialogue doing the print string but not the text of the dialogue
+
+
+https://github.com/user-attachments/assets/f1de46bc-05a7-46ea-9ad1-47cea7af8cc2
+
+
 ### Shadow Character powers
 https://blueprintue.com/blueprint/41-2dd55/
 
