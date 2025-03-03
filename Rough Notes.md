@@ -222,7 +222,7 @@ https://www.youtube.com/watch?v=T3Vou11FGss
 https://github.com/user-attachments/assets/786b0a97-5f8f-48e2-8d3f-0aef5a3ab4a3
 
 
-
+https://www.youtube.com/watch?v=rF_oIaDvtJ4
 ### CSV File (Dialogue)
 https://gdcvault.com/play/1025055/Audio-Asset-Management-Tips-and
 https://dev.epicgames.com/documentation/en-us/unreal-engine/data-driven-gameplay-elements-in-unreal-engine?application_version=5.4
