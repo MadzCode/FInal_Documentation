@@ -216,6 +216,12 @@ https://github.com/user-attachments/assets/2219d771-c042-4e6b-a59a-d5daed33b345
 
 https://github.com/user-attachments/assets/8ae8b5cb-ad89-4769-8c19-c79b689509e6
 
+https://www.youtube.com/watch?v=T3Vou11FGss
+
+
+https://github.com/user-attachments/assets/786b0a97-5f8f-48e2-8d3f-0aef5a3ab4a3
+
+
 
 ### CSV File (Dialogue)
 https://gdcvault.com/play/1025055/Audio-Asset-Management-Tips-and
