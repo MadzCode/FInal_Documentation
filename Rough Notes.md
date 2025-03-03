@@ -166,9 +166,56 @@ https://www.youtube.com/watch?v=Z8q1eMU2Gjo
 ### Shadow Character powers
 https://blueprintue.com/blueprint/41-2dd55/
 
+- Got help from AI Still Broken but closer to goal
+  Spawning an Object at Mouse Location When Pressing "E" in Unreal Engine (Using Blueprints)
 
+Create the Spawnable Object Blueprint:
+
+Create a new Blueprint class named BP_SpawnableObject.
+
+Set Up Player Controller:
+
+Open your PlayerController Blueprint.
+
+Add an "InputKey" event for the "E" key.
+
+Add a "Get Player Controller" node.
+
+Get Mouse Position:
+
+Use the "Get Hit Result Under Cursor by Channel" node.
+
+Connect it to "Get Player Controller".
+
+Set the "Trace Channel" to Visibility.
+
+Promote the "Hit Result" to a variable (HitResult).
+
+Break Hit Result:
+
+Drag the HitResult variable and break it using "Break Hit Result".
+
+Access the Location pin.
+
+Set Up Transform:
+
+Connect the Location to the Location input of a "Make Transform" node.
+
+Set Rotation to 0,0,0 and Scale to 1,1,1.
+
+Spawn the Actor:
+
+Connect the "Make Transform" node to the Spawn Transform input of "Spawn Actor from Class".
+
+Ensure the "Spawn Actor from Class" node is set to spawn your BP_SpawnableObject.
 
 https://github.com/user-attachments/assets/2219d771-c042-4e6b-a59a-d5daed33b345
+
+![image](https://github.com/user-attachments/assets/ec3c3114-fcad-4fc0-926f-ed5614994348)
+
+
+https://github.com/user-attachments/assets/8ae8b5cb-ad89-4769-8c19-c79b689509e6
+
 
 ### CSV File (Dialogue)
 https://gdcvault.com/play/1025055/Audio-Asset-Management-Tips-and
