@@ -37,7 +37,10 @@ I made the Camera not follow the player and It looks better I will research more
 
 
 ## Light System
-
+![image](https://github.com/user-attachments/assets/d7466631-da96-4a7f-bf13-882bddc76d77)
+![image](https://github.com/user-attachments/assets/62b50042-5fd6-4962-8b75-e4960928e555)
+used copilot to help with this
+add video later
 ## 2 Player System
 
 ## 2D Character movement
