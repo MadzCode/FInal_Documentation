@@ -249,3 +249,6 @@ https://docs.google.com/spreadsheets/d/1-5I0bgjq7tCaSo0pwK05oLpwlT2uFYdOTOCDr0gB
 
 ### simple ghost animation
 https://www.youtube.com/watch?v=mGPIehrzauM
+
+### Moving platforms
+https://www.youtube.com/watch?v=fm0_W6YV_8k
