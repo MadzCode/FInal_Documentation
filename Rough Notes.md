@@ -51,6 +51,7 @@ https://github.com/user-attachments/assets/79d63893-3249-482c-aa5e-a6df6513ac5b
 ## Timed Lights
 talk about the flickering lights
 
+
 ## 2 Player System
 
 ## 2D Character movement
@@ -102,7 +103,7 @@ https://www.youtube.com/watch?v=0f1_qSXbqAI
 - casting a shadow
  ![image](https://github.com/user-attachments/assets/fce2366e-a86a-48cf-8867-8aa29326f3f6)
 
-- I made it a MaskedLitSpriteMaterial to make sure the character can have light shine on it to   
+- I made it a MaskedLitSpriteMaterial to make sure the character can have shadow shine on it to   
 ![image](https://github.com/user-attachments/assets/fd46c3b4-35a7-49ac-a57c-1346c44bf092)
 
 - overwrote the old gamemode with my new one so it work
@@ -175,6 +176,11 @@ https://github.com/user-attachments/assets/f1de46bc-05a7-46ea-9ad1-47cea7af8cc2
 
 this video for dialogue
 https://www.youtube.com/watch?v=Z8q1eMU2Gjo
+
+
+
+## animated shadow texture
+![image](https://github.com/user-attachments/assets/2ebac326-a3c6-4ee3-9142-c6e665d17741)
 
 ### Shadow Character powers
 https://blueprintue.com/blueprint/41-2dd55/
