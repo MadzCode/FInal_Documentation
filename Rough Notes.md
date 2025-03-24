@@ -246,3 +246,6 @@ https://www.youtube.com/watch?v=rF_oIaDvtJ4
 https://gdcvault.com/play/1025055/Audio-Asset-Management-Tips-and
 https://dev.epicgames.com/documentation/en-us/unreal-engine/data-driven-gameplay-elements-in-unreal-engine?application_version=5.4
 https://docs.google.com/spreadsheets/d/1-5I0bgjq7tCaSo0pwK05oLpwlT2uFYdOTOCDr0gBt6o/edit?gid=0#gid=0
+
+### simple ghost animation
+https://www.youtube.com/watch?v=mGPIehrzauM
