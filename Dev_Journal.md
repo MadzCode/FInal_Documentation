@@ -48,13 +48,12 @@
 
 
 
-https://github.com/user-attachments/assets/18bf808c-1d4b-4a1d-8ee0-ef0271f7d0c5
-
+<video controls src="Resident Evil Style Camera Test.mp4" title="Title"></video>
 
 
 - I didnt like how the camera moved so I disabled the movement and made the camera completly static.
 
-// Add Video //
+<video controls src="Static Cam.mp4" title="Title"></video>
 # 2D Movement
 
 - I decided to remake the third person character template with my own 2D one.
@@ -71,7 +70,7 @@ https://github.com/user-attachments/assets/18bf808c-1d4b-4a1d-8ee0-ef0271f7d0c5
  <!-- waaay to many images, you only need maybe a gif of the character moving around, or being animated in paperzd -->
 
  ### Animation Preview
-// add GIF //
+<video controls src="Early Walking Anim.mp4" title="// add GIF //"></video>
 
 - I Added the new sprite to the Player_BP
 - To make the lighting more releastic I added cast shadow in the details tab, this will make the lighting look more realistic on the character.
@@ -82,22 +81,42 @@ https://github.com/user-attachments/assets/18bf808c-1d4b-4a1d-8ee0-ef0271f7d0c5
 - Highlight any tools, frameworks, or techniques used, and explain how they contributed to the implementation.  
 - Include screenshots, diagrams, or code snippets where relevant to showcase your progress.
 
+
+### Flash Light System
+
+- I was looking into creating a 2D flashlight for the game but I was unsure how to impliment it so I looked at copilot to help me learn about how to create it.
+![alt text](image-14.png)
+![alt text](image-15.png)
+
+- After tweaking the flashlight I managed to make it work correctly when the player turns left.
+<video controls src="Working Flashlight.mp4" title="Title"></video>
+
+### Flickering Light System
+- for a simple puzzle idea I created a light that toggles every 3 seconds. //put vid here//
+
 ### New Approaches  
 
-### Camera System
+## Light System
+Due to time constraints and being repeatedly let down by my designer I had to remake the entire game idea from scratch whilst trying to keep the overall theme of loss and acceptence in tact. Instead of having 5 levels there will now be one giant level with 3 sections (attic, bedroom, basement) and the movement controls and mechanics have been simplified indefinitely or when we meet schecule deadlines. This change was unfortunate as I wanted to trust the designers reassurance that he would get everything done on time, however, they never delivered. I have also diminished the designers rights and I am now acting as lead designer and I have stationed the old designer to doing backround assets and sound design.
+
+## Camera System
 - originally the player camera was going to be static and fly to the next room when the player walked into it, However, I found the spline to be finicky so I gave the camera a more standard look. If I have some spare time I will look into creating it again. But for now the camera works as intended. 
 - Detail any innovative or new approaches you explored during the project.  
 - Explain why these approaches were chosen and how they differ from standard practices.  
 - Evaluate the success of these approaches, including any challenges faced and lessons learned.
+
+## 2 player system
+
+- I have scrapped the 2 player system and instead I have one sprite followed by a small ghost to give the same effect
 
 ### Testing
 - Document the user testing conducted, specifying the type of tests used (e.g., automated testing, guided user testing, blind testing).  
 - Present feedback or issues identified during testing, using graphs, tables, or visual aids to summarise results.  
 - Describe how these issues were addressed. If any issues were not resolved, provide a clear justification for leaving them unaddressed.
 
-### Technical Difficulties
+## Technical Difficulties
 <!-- Here is where you need to specify any issues your encountered and how you fixed or didnt fix them. its ok not to be able to fix things, you can justify why you didnt fix, maybe time, maybe its noticable, etc. -->
-### Camera System
+## Camera System
 
 - The camera is not looking at the correct location, cannot rotate camera
 - Identify any technical difficulties encountered during the implementation phase.  
@@ -109,6 +128,9 @@ https://github.com/user-attachments/assets/18bf808c-1d4b-4a1d-8ee0-ef0271f7d0c5
 - If any difficulties remain unresolved, explain the impact on the project and any mitigation strategies used to minimise their effect.  
 - Reflect on what you would do differently in future projects to avoid similar issues.
 
+## Flash Light System
+- After asking Copilot to help me create a Flashlight I noticed a bug, the code would work perfectly when I turned to face the left the code would not work as intended.
+<video controls src="Broken Flashlight.mp4" title="Title"></video>
 ## Outcomes
 
 ### Source Code/Project Files
