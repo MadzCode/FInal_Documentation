@@ -46,7 +46,11 @@
 
 - I wasn't a fan of how this looked so I used the Residant Evil camera system as a reference and implemented it into the game.
 
-// add video // 
+
+
+https://github.com/user-attachments/assets/18bf808c-1d4b-4a1d-8ee0-ef0271f7d0c5
+
+
 
 - I didnt like how the camera moved so I disabled the movement and made the camera completly static.
 
