@@ -138,7 +138,7 @@ Due to time constraints and being repeatedly let down by my designer I had to re
 
 ## 2 player system
 
-- I have scrapped the 2 player system and instead I have one sprite followed by a small ghost to give the same effect
+- I have scrapped the 2 player system and instead I have one sprite followed by a small ghost to give the same effect.
 
 ### Testing
 - Document the user testing conducted, specifying the type of tests used (e.g., automated testing, guided user testing, blind testing).  
