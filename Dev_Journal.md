@@ -210,7 +210,7 @@ https://github.com/user-attachments/assets/40c8aa02-0b36-4c1b-8484-994910464370
 - (add screenshots and other sources to help prove these statements)
 
 ### Negative Analysis
-- After working on this group project I relised that you can often be let down by your other team members either through miscomunication or lack of work.
+- After working on this group project I realised that you can often be let down by your other team members either through miscommunication or lack of work.
 
 - During the start of the project I was handed the unofficial title of the team leader, even though I am not confident with leading groups and I would have expected that role to go to the game designer as he is the one who came up with the original idea. But the oppisite of that happened, as the designer was the one in the group who has done the least amount of work in the group, and has caused multiple missed group deadlines. Because of this, I discussd kicking the designer out but I could not get the artist to fully agree and I did not want to do something that was not in te groups best interests so I did not; Instead I lowerd the game designers responsibilities and took up the role of the lead game designer instead allowing the previous ones to do mainly simple background level design and audio design. This change has caused many problems for the group putting us back by a large margin then we should be at this point. I now have to do twice the work whilst allowing the previous designer to essentialy do all of the easy work.
 
