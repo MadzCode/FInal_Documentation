@@ -186,7 +186,7 @@ https://github.com/user-attachments/assets/40c8aa02-0b36-4c1b-8484-994910464370
 - Include a brief commentary or text overlay in the video to explain the different aspects of your project as they are shown.
 
 ## Reflection
-- After working in a group I relised that choosing reliable team members is a must, having just one team member not play their part can have a devastating effect on the production progress and put more work onto my plate in the longrun. After some thought my next game will be a solo project and I may use the original idea for my prototype.
+- After working in a group I realised that choosing reliable team members is a must, having just one team member not play their part can have a devastating effect on the production progress and put more work onto my plate in the longrun. After some thought my next game will be a solo project and I may use the original idea for my prototype.
 
 - I should have also stopped putting off work as it added more work for me later on, causing delays for the timeline I had set for myself.
 
