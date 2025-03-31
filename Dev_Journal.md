@@ -215,9 +215,15 @@ https://github.com/user-attachments/assets/40c8aa02-0b36-4c1b-8484-994910464370
 
 
 ### Next Time
-- Outline what you would do differently if you were to undertake a similar project again.  
-- Suggest improvements to your workflow, research methods, or implementation process based on your reflections.  
-- Consider any new tools, techniques, or approaches you would explore in future projects to achieve better results.
+
+- If I was to do this project again I would make sure that I chose team members that would do their part to ensure that the game is completed in a timely manner.
+
+-I would have made sure that they would update the trello board often this time so I could better see where they were struggling or if they needed more time to do something.
+
+- I Would also make sure the game would be less ambitious before as originally there were going to be five levels, which is possible but I need to consider things going wrong like it has here, then if I am ahead of scedule I could add stretch goals to help polish the game and make it more publishable.
+
+- One thing I struggled with last time was documentation as I would just put everything I did into the notes making it unorganised and hard to find what I am looking for immedietly, costing me time that could be spent on working on the project.
+
 
 ## Bibliography  
 - Compile a complete list of all sources referenced throughout your project. This may include articles, journals, videos, games, software, documentation, or any other materials.  
