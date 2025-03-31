@@ -186,13 +186,25 @@ https://github.com/user-attachments/assets/40c8aa02-0b36-4c1b-8484-994910464370
 - Include a brief commentary or text overlay in the video to explain the different aspects of your project as they are shown.
 
 ## Reflection
-
+- After working in a group I relised that choosing reliable team members is a must, having just one team member not play their part can have a devastating effect on the production progress and put more work onto my plate in the longrun. After some thought my next game will be a solo project and I may use the original idea for my prototype.
 ### Research Effectiveness  
 - Assess the usefulness of the research conducted during the project.  
 - Highlight which sources (games, academic, documentation) had the most significant impact on your work and explain why.  
 - Identify any research gaps or areas where additional information could have improved your project outcomes.
 
 ### Positive Analysis 
+- I enjoyed working on this project applying what i know into the project to create a better and more efficient game then I would have been able to do before.
+
+- I liked the challenge of creating a 2.5D game as it allowed me to learn how to do some things differently such as, changing the camera and movement systems.
+
+- (Add Screenshots and other sources)
+
+### Group Positive Analysis
+- Working as a group has been positive in some ways as it is nice to give everyone their designated tasks to help split the workload as a whole.
+
+- I enjoyed managing my group and giving them different asignments to help improve the game, from asking my artist to create different assets that will help improve the games overall storytelling, to asking my designer to create music using the different themes and instruments I chose to make the music more immersive and emotional.
+
+- (add screenshots and other sources to help prove these statements)
 - Reflect on the successful aspects of the project.  
 - Highlight specific elements that worked well, such as technical solutions, creative decisions, or user feedback.  
 - Provide evidence to support your analysis, such as test results, screenshots, or user comments.
