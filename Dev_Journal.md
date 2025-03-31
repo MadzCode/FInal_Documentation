@@ -16,6 +16,20 @@
 - Detail how these sources have informed your practical work and influenced your approach.
 
 ### Game Sources  
+- Ori and the Blind Forest:
+Ori is a 2.5 Platformer game where the main character 'Ori' traverses through the world gaining powerups as he goes. I found the 2.5D artstyle to look very interesting with this almost storybook looking artstyle.
+Find Sources that talk about oris gameplay mechanics.
+
+- Inside:
+Inside is a 2.5D game where the player must travel though a bleak empty world to using the environment to put together the story and figure out the characters objective.
+Find Sources that talk about insides gameplay mechanics.
+
+- Fireboy & Watergirl:
+Fireboy & Watergirl is a 2D coop game where two players play as fireboy and watergirl, they must work together to pass the levels and avoid falling into the other characters liquid or the green goo.
+Find Sources that talk about Fireboy & watergirl's gameplay mechanics.
+
+- Little Nightmares 
+Little Nightmares is a 2.5D horror game where the main character 'Six'
 - Conduct research on games that are relevant to your project. Provide a brief description of each game and the insights it offers.  
 - Analyse the game's approach, cross-referencing it with other sources such as articles or talks to support your analysis.  
 - Explain how these insights apply to your project and influence your decision-making process.
@@ -32,6 +46,9 @@
 
 ## 2D Movement
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0f1_qSXbqAI?si=NKyjGC-tFWcnW6Yd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Cursor Mechanic
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8VZtDdKApeM?si=ow2RlVm7CmGLkJtF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 - Investigate relevant documentation, tutorials, or instructional videos that provide technical insights into your tasks. Summarise the content and its relevance to your project.  
 - Explain how this technical knowledge supports your project work and guides your decision-making process.
 
@@ -86,7 +103,7 @@
 - Include screenshots, diagrams, or code snippets where relevant to showcase your progress.
 
 
-### Flash Light System
+## Flash Light System
 
 - I was looking into creating a 2D flashlight for the game but I was unsure how to impliment it so I looked at copilot to help me learn about how to create it.
 ![alt text](image-14.png)
@@ -95,8 +112,18 @@
 - After tweaking the flashlight I managed to make it work correctly when the player turns left.
 <video controls src="Working Flashlight.mp4" title="Title"></video>
 
-### Flickering Light System
+## Flickering Light System
 - for a simple puzzle idea I created a light that toggles every 3 seconds. //put vid here//
+
+## Cursor mechanic
+- To make the game feel more stylisied I added a custom cursor to the game, this step was easy but I am eventually going to make the cursor change when clicked to be more visual.
+![alt text](<image copy.png>)
+
+## Animated shadow texture 
+- I animated a simple animation for the shadow platforms. I requested for the shadow to look more like squiggles, this helps the game to look more like a picture book that had been drawn into.
+
+- I used Copilot to give me an idea of how to smoothly cycle between the frames so it looks like the squiggles are moving rather than switching in between frames.
+![alt text](<image copy 2.png>)
 
 ### New Approaches  
 
