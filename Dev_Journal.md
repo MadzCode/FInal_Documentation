@@ -210,11 +210,11 @@ https://github.com/user-attachments/assets/40c8aa02-0b36-4c1b-8484-994910464370
 - (add screenshots and other sources to help prove these statements)
 
 ### Negative Analysis
-- After working on this group project I realised that you can often be let down by your other team members either through miscommunication or lack of work.
+- Working on this project has taught me about the importance of team communication, as I have learned that miscommunication or missed group deadlines can almost halt the team workflow.
 
-- During the start of the project I was handed the unofficial title of the team leader, even though I am not confident with leading groups and I would have expected that role to go to the game designer as he is the one who came up with the original idea. But the oppisite of that happened, as the designer was the one in the group who has done the least amount of work in the group, and has caused multiple missed group deadlines. Because of this, I discussd kicking the designer out but I could not get the artist to fully agree and I did not want to do something that was not in te groups best interests so I did not; Instead I lowerd the game designers responsibilities and took up the role of the lead game designer instead allowing the previous ones to do mainly simple background level design and audio design. This change has caused many problems for the group putting us back by a large margin then we should be at this point. I now have to do twice the work whilst allowing the previous designer to essentialy do all of the easy work.
+- During this project I took on the role of a unofficial team leader, I didn't feel confident in this role and found it increased my workload quite significantly. My initial thought that the game designer who created the original idea for the game would take on that role. However, the designer did not contribute as much to the project as i hoped he would. This lead to missed group deadlines that I organised, as well as tension within the group. To help the team workflow I reassigned the designer to simpler tasks. Such as, background level and audio design.   
 
-- I did try to make sure the designer was at a good place in the project but he constantly lied and said he was working on something and it would not get sone and I would have to eventually work on it e.g. story and gameplay as well as some level design. If I could redo this project I would not take this designer again, but if I had to I would have strickly made them do the background tasks from the start and not think I would be delivered work that does not exist.
+- If I were to create this project again, I would make sure that the roles and responsibilities given out would better suit my team members to avoid missed deadlines and help communication.
 
 
 ### Next Time
