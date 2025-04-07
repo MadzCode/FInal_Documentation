@@ -18,10 +18,17 @@
 ### Game Sources  
 - Ori and the Blind Forest:
 Ori is a 2.5 Platformer game where the main character 'Ori' traverses through the world gaining powerups as he goes. I found the 2.5D artstyle to look very interesting with this almost storybook looking artstyle.
-Find Sources that talk about oris gameplay mechanics.
+
+- "Ori and the Blind Forest's gameplay combines platformer elements with open-world exporation (metroidvania). Players control Ori who can jump, run on walls and use various abilities to overcome obstacles and fight enemies."
+Find Sources that talk about oris gameplay mechanics."
+
+Learning by playing: Ori and the Blind Forest developer tips - ProgKids. https://www.progkids.com/en/blog/uchimsya-igraya-sovety-razrabotchikam-po-igre-ori-and-the-blind-forest. Accessed 7 Apr. 2025.
+
 
 - Inside:
 Inside is a 2.5D game where the player must travel though a bleak empty world to using the environment to put together the story and figure out the characters objective.
+
+
 Find Sources that talk about insides gameplay mechanics.
 
 - Fireboy & Watergirl:
@@ -229,8 +236,9 @@ https://github.com/user-attachments/assets/40c8aa02-0b36-4c1b-8484-994910464370
 
 
 ## Bibliography  
-- Compile a complete list of all sources referenced throughout your project. This may include articles, journals, videos, games, software, documentation, or any other materials.  
-- Ensure all references are formatted according to the [university's citation method](https://mylibrary.uca.ac.uk/referencing).  
+- Learning by playing: Ori and the Blind Forest developer tips - ProgKids. https://www.progkids.com/en/blog/uchimsya-igraya-sovety-razrabotchikam-po-igre-ori-and-the-blind-forest. Accessed 7 Apr. 2025.
+
+ method](https://mylibrary.uca.ac.uk/referencing).  
 - Organise your references in alphabetical order. Alternatively, you may separate them by type (e.g., academic sources, games, videos), but consistency is key.
 
 ## Declared Assets
