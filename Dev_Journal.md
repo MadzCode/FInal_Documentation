@@ -33,9 +33,7 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
 
 Contributor, Alex Wiltshire, and Alex Wiltshire. ‘How Inside’s Levels Were Designed’. Rock, Paper, Shotgun, 12 May 2017. www.rockpapershotgun.com, https://www.rockpapershotgun.com/how-insides-levels-were-designed.
 
-- Fireboy & Watergirl:
-Fireboy & Watergirl is a 2D coop game where two players play as fireboy and watergirl, they must work together to pass the levels and avoid falling into the other characters liquid or the green goo.
-Find Sources that talk about Fireboy & watergirl's gameplay mechanics.
+
 
 - Little Nightmares 
 Little Nightmares is a 2.5D horror game where the main character 'Six'
