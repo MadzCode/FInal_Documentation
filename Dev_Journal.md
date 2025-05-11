@@ -29,7 +29,9 @@ Learning by playing: Ori and the Blind Forest developer tips - ProgKids. https:/
 Inside is a 2.5D game where the player must travel though a bleak empty world to using the environment to put together the story and figure out the characters objective.
 
 
-Find Sources that talk about insides gameplay mechanics.
+“Sequences were often shuffled around, broken apart and recombined to suit the evolution of the story and to make sure that mechanics and visual cues were shown to the player in the correct order, setting up subsequent encounters,” says Bogdan.
+
+Contributor, Alex Wiltshire, and Alex Wiltshire. ‘How Inside’s Levels Were Designed’. Rock, Paper, Shotgun, 12 May 2017. www.rockpapershotgun.com, https://www.rockpapershotgun.com/how-insides-levels-were-designed.
 
 - Fireboy & Watergirl:
 Fireboy & Watergirl is a 2D coop game where two players play as fireboy and watergirl, they must work together to pass the levels and avoid falling into the other characters liquid or the green goo.
