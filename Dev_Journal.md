@@ -254,3 +254,4 @@ https://github.com/user-attachments/assets/40c8aa02-0b36-4c1b-8484-994910464370
 - Dylan, Hayes. ‘Low Poly Bookshelf Asset’. Fab, May 2022, https://www.fab.com/listings/42cfb515-8857-491f-afe6-64a119e4f2b2.
 - Ewan, Lejkowski. ‘Bed Asset’. Fab, June 2022, https://www.fab.com/listings/8928e27e-4a23-4dfe-8654-69dd57e4ab1f.
 - Misoware. ‘Night Stand Asset’. Fab, Nov. 2024, https://www.fab.com/listings/762ca16a-a0b6-44ab-856a-d8bcc8057909.
+- Freepoly. ‘Old Desk Asset’. Fab, Sept. 2023, https://www.fab.com/listings/cd82fcc2-2168-4516-9640-f2280f19b0f8.
