@@ -246,3 +246,11 @@ https://github.com/user-attachments/assets/40c8aa02-0b36-4c1b-8484-994910464370
 - This includes asset packs, music, sound effects, 3D models, textures, scripts, or code from external sources.  
 - Declare any use of AI tools (e.g., ChatGPT, GitHub Copilot, Meshy) or pre-existing code. Specify the purpose of these assets/tools and how they were integrated into your work.  
 - Ensure you clearly distinguish between your original work and any external contributions to maintain academic integrity.
+
+### IN-GAME ASSETS:
+
+- ‘Plush Carpet Asset’. Fab, Quixel, Oct. 2024, https://www.fab.com/listings/aea27a63-30ce-43fe-b7ec-cb9070f0ef31.
+- ‘Old Decorative Wallpaper Asset’. Fab, Quixel, Oct. 2024, https://www.fab.com/listings/3703813d-5f77-4404-97b4-ca90aeb18f1c.
+- Dylan, Hayes. ‘Low Poly Bookshelf Asset’. Fab, May 2022, https://www.fab.com/listings/42cfb515-8857-491f-afe6-64a119e4f2b2.
+- Ewan, Lejkowski. ‘Bed Asset’. Fab, June 2022, https://www.fab.com/listings/8928e27e-4a23-4dfe-8654-69dd57e4ab1f.
+- Misoware. ‘Night Stand Asset’. Fab, Nov. 2024, https://www.fab.com/listings/762ca16a-a0b6-44ab-856a-d8bcc8057909.
