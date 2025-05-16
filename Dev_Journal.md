@@ -249,11 +249,30 @@ https://github.com/user-attachments/assets/40c8aa02-0b36-4c1b-8484-994910464370
 
 ### IN-GAME ASSETS:
 
-- ‘Plush Carpet Asset’. Fab, Quixel, Oct. 2024, https://www.fab.com/listings/aea27a63-30ce-43fe-b7ec-cb9070f0ef31.
-- ‘Old Decorative Wallpaper Asset’. Fab, Quixel, Oct. 2024, https://www.fab.com/listings/3703813d-5f77-4404-97b4-ca90aeb18f1c.
-- Dylan, Hayes. ‘Low Poly Bookshelf Asset’. Fab, May 2022, https://www.fab.com/listings/42cfb515-8857-491f-afe6-64a119e4f2b2.
-- Ewan, Lejkowski. ‘Bed Asset’. Fab, June 2022, https://www.fab.com/listings/8928e27e-4a23-4dfe-8654-69dd57e4ab1f.
-- Misoware. ‘Night Stand Asset’. Fab, Nov. 2024, https://www.fab.com/listings/762ca16a-a0b6-44ab-856a-d8bcc8057909.
-- Freepoly. ‘Old Desk Asset’. Fab, Sept. 2023, https://www.fab.com/listings/cd82fcc2-2168-4516-9640-f2280f19b0f8.
-- 3Domino. ‘Computer Asset’. Fav, Nov. 2020, https://www.fab.com/listings/eae4ab01-9f12-4024-bd0e-fb0e3ddd7373.
-- Max3d. ‘Chair Asset’. Fab, Aug. 2024, https://www.fab.com/listings/3b7ff936-d17c-493b-9db3-f8a16ee0a722.
+- ‘Plush Carpet ’. Fab, Quixel, Oct. 2024, https://www.fab.com/listings/aea27a63-30ce-43fe-b7ec-cb9070f0ef31. Accessed 21 February 2025.
+- ‘Old Decorative Wallpaper’. Fab, Quixel, Oct. 2024, https://www.fab.com/listings/3703813d-5f77-4404-97b4-ca90aeb18f1c. Accessed 21 February 2025.
+- Dylan, Hayes. ‘Low Poly Bookshelf’. Fab, May 2022, https://www.fab.com/listings/42cfb515-8857-491f-afe6-64a119e4f2b2. Accessed 22 February 2025.
+- Ewan, Lejkowski. ‘Bed’. Fab, June 2022, https://www.fab.com/listings/8928e27e-4a23-4dfe-8654-69dd57e4ab1f. Accessed 24 February 2025.
+- Misoware. ‘Night Stand’. Fab, Nov. 2024, https://www.fab.com/listings/762ca16a-a0b6-44ab-856a-d8bcc8057909. Accessed 24 February 2025. 
+- Freepoly. ‘Old Desk’. Fab, Sept. 2023, https://www.fab.com/listings/cd82fcc2-2168-4516-9640-f2280f19b0f8. Accessed 24 February 2025.
+- 3Domino. ‘Computer’. Fav, Nov. 2020, https://www.fab.com/listings/eae4ab01-9f12-4024-bd0e-fb0e3ddd7373. Accessed 24 February 2025.
+- Max3d. ‘Chair’. Fab, Aug. 2024, https://www.fab.com/listings/3b7ff936-d17c-493b-9db3-f8a16ee0a722. Accessed 24 February 2025.
+- “Blue Book.” Fab, Quixel, Sept. 2024, https://www.fab.com/listings/84e1f0ea-e940-4475-b971-02c7504d3c01. Accessed 25 February 2025.
+- “Blue and Red Book.” Fab, Quixel, Sept. 2024, https://www.fab.com/listings/56e8f2b9-d952-4be0-9ec7-f88395559c1d. Accessed 24 February 2025.
+- “Book.” Fab, Quixel, Sept. 2024, https://www.fab.com/listings/634f4e59-7b7d-437a-8d87-cee551d779ed. Accessed 25 February 2025.
+- “Brown Decorative Book.” Fab, Quixel, Sept. 2024, https://www.fab.com/listings/1362922b-35c7-4670-8218-eca3552eac9a. Accessed 25 February 2025.
+- “Stained Brown Book.” Fab, Quixel, Sept. 2024, https://www.fab.com/listings/db197111-d2ed-4dd1-ac41-5c1ba0ef8569. Accessed 25 February 2025.
+- “White Book.” Fab, Quixel, Sept. 2024, https://www.fab.com/listings/1df85165-fccd-4405-a420-39cf81dfe996. Accessed 25 February 2025.
+- “White and Blue Book.” Fab, Quixel, Sept. 2024, https://www.fab.com/listings/c24a5dc2-af9a-4275-a0de-59fd75f55d3e. Accessed 25 February 2025.
+- Saritasa. “Game Ready | Free Bedroom Shelf.” Fab, Sept. 2023, https://www.fab.com/listings/ da44abc3-c0d1-4cb1-8062-93e1833480ac. Accessed 25 February 2025.
+- “Decorative Picture Frame.” Fab, Quixel, Sept. 2024, https://www.fab.com/listings/47eb1ea4-1142-42a9-a407-2077514b0cb7. Accessed 26 February 2025.
+- Saritasa. “Game Ready | Free Table Lamp.” Fab, Aug. 2024, https://www.fab.com/listings/e6cdd58a-8b4d-4de5-875e-255238cac458. Accessed 26 February 2025.
+- 3DBYSA. “Plant.” Fab, Nov. 2023, https://www.fab.com/listings/630c8f65-f07d-4ac3-900d-973240815d3c. Accessed 26 February 2025.
+- AllQuad. “[FREE] Pothos Potted Plant - Money Plant Asset.” Fab, July 2022, https://www.fab.com/listings/e4628735-9b65-48de-8fec-751e2257aa69. Accessed 26 February 2025.
+- “Cactus Pot.” Fab, Quixel, Sept. 2024, https://www.fab.com/listings/6179e2b8-8712-441c-ba65-59ccd01abdbe. Accessed
+- “Wooden Shelf.” (Small) Fab, Quixel, Sept. 2024, https://www.fab.com/listings/7888c588-0240-4f4e-b2c8-78b96548b6ba. Accessed 27 February 2025.
+- “Wooden Shelf.” (Big) Fab, Quixel, Sept. 2024, https://www.fab.com/listings/254cf201-9058-4faf-a1bf-1571c8ad0778. Accessed 27 February 2025.
+- “Hardwood Brown Planks PBR Material - Texture Download.” Free PBR Materials, https://freepbr.com/product/hardwood-brown-planks-pbr-material/. Accessed 16 May 2025.
+- Waveus. “Beer Bottle Asset.” Fab, July 2022, https://www.0fab.com/listings/9c616a84-4cd7-4823-9e2e-db202d7eb604. Accessed 27 February 2025.
+- “70s Geometric Wovn Rug - Low Poly PBR.” Fab, Jan. 2025, https://www.fab.com/listings/ca91f1b4-27bb-4695-af63-c5afe27064fa. Accessed
+- Crea2res.com. “Bed with UV.” Fab, July 2023, https://www.fab.com/listings/7d32bd1c-5a67-46b4-bfa7-1a06e51d544a. Accessed 27 February 2025.
