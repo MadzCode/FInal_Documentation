@@ -258,7 +258,7 @@ https://github.com/user-attachments/assets/40c8aa02-0b36-4c1b-8484-994910464370
 - 3Domino. ‘Computer’. Fav, Nov. 2020, https://www.fab.com/listings/eae4ab01-9f12-4024-bd0e-fb0e3ddd7373. Accessed 24 February 2025.
 - Max3d. ‘Chair’. Fab, Aug. 2024, https://www.fab.com/listings/3b7ff936-d17c-493b-9db3-f8a16ee0a722. Accessed 24 February 2025.
 - “Blue Book.” Fab, Quixel, Sept. 2024, https://www.fab.com/listings/84e1f0ea-e940-4475-b971-02c7504d3c01. Accessed 25 February 2025.
-- “Blue and Red Book.” Fab, Quixel, Sept. 2024, https://www.fab.com/listings/56e8f2b9-d952-4be0-9ec7-f88395559c1d. Accessed 24 February 2025.
+- “Blue and Red Book.” Fab, Quixel, Sept. 2024, https://www.fab.com/listings/56e8f2b9-d952-4be0-9ec7-f88395559c1d. Accessed 25 February 2025.
 - “Book.” Fab, Quixel, Sept. 2024, https://www.fab.com/listings/634f4e59-7b7d-437a-8d87-cee551d779ed. Accessed 25 February 2025.
 - “Brown Decorative Book.” Fab, Quixel, Sept. 2024, https://www.fab.com/listings/1362922b-35c7-4670-8218-eca3552eac9a. Accessed 25 February 2025.
 - “Stained Brown Book.” Fab, Quixel, Sept. 2024, https://www.fab.com/listings/db197111-d2ed-4dd1-ac41-5c1ba0ef8569. Accessed 25 February 2025.
