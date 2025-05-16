@@ -236,16 +236,40 @@ https://github.com/user-attachments/assets/40c8aa02-0b36-4c1b-8484-994910464370
 
 
 ## Bibliography  
-- Learning by playing: Ori and the Blind Forest developer tips - ProgKids. https://www.progkids.com/en/blog/uchimsya-igraya-sovety-razrabotchikam-po-igre-ori-and-the-blind-forest. Accessed 7 Apr. 2025.
+- Learning by playing: Ori and the Blind Forest developer tips - ProgKids. https://www.progkids.com/en/blog/uchimsya-igraya-sovety-razrabotchikam-po-igre-ori-and-the-blind-forest. Accessed 7 April 2025.
+
+- Contributor, Alex Wiltshire, and Alex Wiltshire. ‘How Inside’s Levels Were Designed’. Rock, Paper, Shotgun, 12 May 2017. www.rockpapershotgun.com, https://www.rockpapershotgun.com/how-insides-levels-were-designed. Accessed 7 April 2025.
+
+- Aspland, Matt. n.d. “How to Make A Spline-Based Side-Scroller Camera in Unreal Engine.” Youtube. Accessed May 16, 2025. https://www.youtube.com/watch?v=ZmIzHtglnMM.
+
+- GameDev, Ugur Batur. n.d. “Unreal Engine 5: Create a Resident Evil Style Camera System!” Youtube. Accessed May 16, 2025. https://www.youtube.com/watch?v=O7SjrIrY_io.
+- OUVIO. n.d. “Paper ZD - How to Create a 2D Character in Unreal Engine 5.” Youtube. Accessed May 16, 2025. https://www.youtube.com/watch?v=0f1_qSXbqAI.
+
+- Aspland, Matt. n.d. “How to Create and Use A Custom Mouse Cursor in Unreal Engine 5 (Tutorial).” Youtube. Accessed May 16, 2025. https://www.youtube.com/watch?v=8VZtDdKApeM.
+
+- “blueprintUE.” n.d. Accessed May 16, 2025. https://blueprintue.com/.
+- Critical Failure Studio. n.d. “PaperZD.” Accessed May 16, 2025. https://www.fab.com/listings/6664e3b5-e376-47aa-a0dd-f7bbbd5b93c0.
+
+
+
 
  method](https://mylibrary.uca.ac.uk/referencing).  
+
+
+
+
+
 - Organise your references in alphabetical order. Alternatively, you may separate them by type (e.g., academic sources, games, videos), but consistency is key.
+
+
 
 ## Declared Assets
 - Provide a detailed list of any third-party assets used in the project.  
 - This includes asset packs, music, sound effects, 3D models, textures, scripts, or code from external sources.  
 - Declare any use of AI tools (e.g., ChatGPT, GitHub Copilot, Meshy) or pre-existing code. Specify the purpose of these assets/tools and how they were integrated into your work.  
 - Ensure you clearly distinguish between your original work and any external contributions to maintain academic integrity.
+
+
 
 ### IN-GAME ASSETS:
 
