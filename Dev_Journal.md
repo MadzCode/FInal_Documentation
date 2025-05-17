@@ -250,7 +250,16 @@ https://github.com/user-attachments/assets/40c8aa02-0b36-4c1b-8484-994910464370
 - “blueprintUE.” n.d. Accessed May 16, 2025. https://blueprintue.com/.
 - Critical Failure Studio. n.d. “PaperZD.” Accessed May 16, 2025. https://www.fab.com/listings/6664e3b5-e376-47aa-a0dd-f7bbbd5b93c0.
 
+- Bray, Titus. n.d. “Unreal Engine 2D Flipbooks | Beginner Tutorial.” Youtube. Accessed May 17, 2025. https://www.youtube.com/watch?v=3LsWb8pYg_s&list=LL&index=7.
+ - Bray, Titus. n.d. “Unreal Engine 2D Flipbooks | Beginner Tutorial.” Youtube. Accessed May 17, 2025. https://www.youtube.com/watch?v=3LsWb8pYg_s&list=LL&index=7.
 
+- Unreal University. n.d. “How to Make A Dialogue System in Unreal Engine 5.” Youtube. Accessed May 17, 2025. https://www.youtube.com/watch?v=Z8q1eMU2Gjo&list=LL&index=5&t=1183s.
+
+- Aspland, Matt. n.d. “How to Make an Object Follow A Spline Path - Unreal Engine 5 Tutorial.” Youtube. Accessed May 17, 2025. https://www.youtube.com/watch?v=fm0_W6YV_8k&list=LL&index=3.
+
+- Aspland, Matt. n.d. “How to Create A Physics Based Rope Swing System in Unreal Engine 5 (Tutorial).” Youtube. Accessed May 17, 2025. https://www.youtube.com/watch?v=zkxCzJKrV2s&list=LL&index=2&t=1968s.
+
+- Aspland, Matt. n.d. “Door and Key System | How to Open A Locked Door with A Key in Unreal Engine 5 (Tutorial).” Youtube. Accessed May 17, 2025. https://www.youtube.com/watch?v=Bcle9sSS4Oo&list=LL&index=1.
 
 
  method](https://mylibrary.uca.ac.uk/referencing).  
@@ -300,3 +309,9 @@ https://github.com/user-attachments/assets/40c8aa02-0b36-4c1b-8484-994910464370
 - Waveus. “Beer Bottle Asset.” Fab, July 2022, https://www.0fab.com/listings/9c616a84-4cd7-4823-9e2e-db202d7eb604. Accessed 27 February 2025.
 - “70s Geometric Wovn Rug - Low Poly PBR.” Fab, Jan. 2025, https://www.fab.com/listings/ca91f1b4-27bb-4695-af63-c5afe27064fa. Accessed
 - Crea2res.com. “Bed with UV.” Fab, July 2023, https://www.fab.com/listings/7d32bd1c-5a67-46b4-bfa7-1a06e51d544a. Accessed 27 February 2025.
+-
+
+### IN-GAME SFX:
+- Download Free Thud Sound Effects | Mixkit. https://mixkit.co/free-sound-effects/thud/. Accessed 17 March 2025.
+- “Free Thud Sound Effects.” n.d. https://mixkit.co/free-sound-effects/thud/. Accessed March 17, 2025.
+- ‘Jump_C_08 by Cabled_mess’. Freesound, https://freesound.org/people/cabled_mess/sounds/350898/. Accessed 17 March 2025.
