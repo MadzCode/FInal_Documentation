@@ -251,8 +251,11 @@ https://docs.google.com/spreadsheets/d/1-5I0bgjq7tCaSo0pwK05oLpwlT2uFYdOTOCDr0gB
 
 dasdaddsafd
 https://www.youtube.com/watch?v=QH8uV0WvfCw&t=1s
+
+Microsoft Copilot. (2025). Microsoft Copilot [Artificial intelligence language model]. Microsoft. Available at: https://www.microsoft.com/en-us/ai/copilot (Accessed: 19 May 2025).
 ### simple ghost animation
 https://www.youtube.com/watch?v=mGPIehrzauM
+
 
 ### Moving platforms
 https://www.youtube.com/watch?v=fm0_W6YV_8k
