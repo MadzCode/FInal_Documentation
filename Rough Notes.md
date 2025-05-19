@@ -256,6 +256,7 @@ Microsoft Copilot. (2025). Microsoft Copilot [Artificial intelligence language m
 ### simple ghost animation
 https://www.youtube.com/watch?v=mGPIehrzauM
 
+https://www.youtube.com/watch?v=OVLxR758otw
 
 ### Moving platforms
 https://www.youtube.com/watch?v=fm0_W6YV_8k
