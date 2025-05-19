@@ -259,3 +259,5 @@ https://www.youtube.com/watch?v=mGPIehrzauM
 
 ### Moving platforms
 https://www.youtube.com/watch?v=fm0_W6YV_8k
+
+![image](https://github.com/user-attachments/assets/fc5880cc-56db-442e-b255-98c29212cc55)
