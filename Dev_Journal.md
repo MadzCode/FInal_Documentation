@@ -119,7 +119,8 @@ Little Nightmares is a 2.5D horror game where the main character 'Six'
 ![alt text](image-15.png)
 
 - After tweaking the flashlight I managed to make it work correctly when the player turns left.
-<video controls src="Working Flashlight.mp4" title="Title"></video>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gpnFGT_jYT0?si=hJIuUY5tdEdjAvWb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Flickering Light System
 - for a simple puzzle idea I created a light that toggles every 3 seconds. //put vid here//
