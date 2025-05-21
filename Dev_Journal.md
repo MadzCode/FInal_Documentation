@@ -153,6 +153,28 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
 - I used Copilot to give me an idea of how to smoothly cycle between the frames so it looks like the squiggles are moving rather than switching in between frames.
 ![alt text](<image copy 2.png>)
 
+## Shadow Platform Mechanic
+
+## Light Dash Mechanic
+
+## Moving Spline Platforms
+
+## Credits Screen
+
+## Main Menu
+
+## Jump Pad
+
+## Flying Ghost AI
+
+## Ground Ghost
+
+## Button Mechanic
+
+## Door / Key Mechanic
+
+## Dialogue System
+
 ### New Approaches  
 
 ## Light System
