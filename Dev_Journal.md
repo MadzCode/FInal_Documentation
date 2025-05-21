@@ -65,23 +65,25 @@ Little Nightmares is a 2.5D horror game where the main character 'Six'
 - For the Camera Mechanic I want the camera to be on a static spline, when the player leaves the room the camera will fly to the next room.
 -![image](https://github.com/user-attachments/assets/685477d2-3b9f-4bc2-ab77-65d83dccc652)
 ![image](https://github.com/user-attachments/assets/5b969e1e-b0e8-49c0-9ba4-1785cb8c729f)
-// add videos at home // 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gBBOPRDMu6s?si=5iegBYA7dNeLJ3ra" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - I fixed the way the camera was facing but now I need to make it so the camera is segmented.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w-KmBBzDxT4?si=xCTGsWQlqA5D_sYK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - Spline Movement BP:
 <iframe src="https://blueprintue.com/render/d6-zmgms/" scrolling="no" allowfullscreen></iframe>
 
 - I wasn't a fan of how this looked so I used the Residant Evil camera system as a reference and implemented it into the game.
 
-
-
-<video controls src="Resident Evil Style Camera Test.mp4" title="Title"></video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UTj87aCSJpA?si=NK0UW5SZVROZyuN1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 - I didnt like how the camera moved so I disabled the movement and made the camera completly static.
 
-<video controls src="Static Cam.mp4" title="Title"></video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/78SvbqNOx20?si=eJhKqkQgd9OX1Gfr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # 2D Movement
 
 - I decided to remake the third person character template with my own 2D one.
