@@ -33,12 +33,6 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
 
 
 
-- Little Nightmares 
-Little Nightmares is a 2.5D horror game where the main character 'Six'
-- Conduct research on games that are relevant to your project. Provide a brief description of each game and the insights it offers.  
-- Analyse the game's approach, cross-referencing it with other sources such as articles or talks to support your analysis.  
-- Explain how these insights apply to your project and influence your decision-making process.
-
 ### Academic Sources  
 - Research academic papers, books, or articles that provide theoretical guidance for your project. Include a brief summary of each source.  
 - Describe how the academic research applies to your project and shapes your design and development decisions.
