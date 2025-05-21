@@ -38,6 +38,7 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
 - Describe how the academic research applies to your project and shapes your design and development decisions.
 
 ### Documentation Sources  
+
 ## Camera Mechanic
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZmIzHtglnMM?si=jhqRReVfk8Fhn_sV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -46,12 +47,37 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
 ## 2D Movement
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0f1_qSXbqAI?si=NKyjGC-tFWcnW6Yd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-### Cursor Mechanic
+## Cursor Mechanic
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8VZtDdKApeM?si=ow2RlVm7CmGLkJtF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 - Investigate relevant documentation, tutorials, or instructional videos that provide technical insights into your tasks. Summarise the content and its relevance to your project.  
 - Explain how this technical knowledge supports your project work and guides your decision-making process.
 
+## Shadow Platform Mechanic
+
+## Light Dash Mechanic
+
+## Moving Spline Platforms
+
+## Credits Screen
+
+## Main Menu
+
+## Jump Pad
+
+## Flying Ghost AI
+
+## Ground Ghost
+
+## Button Mechanic
+
+## Door / Key Mechanic
+
+## Dialogue System
+
+## Flashlight Mechanic
+
 ## Implementation
+
 # Camera Mechanic
 
 - For the Camera Mechanic I want the camera to be on a static spline, when the player leaves the room the camera will fly to the next room.
