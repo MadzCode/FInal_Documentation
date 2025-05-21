@@ -100,7 +100,7 @@ Little Nightmares is a 2.5D horror game where the main character 'Six'
  <!-- waaay to many images, you only need maybe a gif of the character moving around, or being animated in paperzd -->
 
  ### Animation Preview
-<video controls src="Early Walking Anim.mp4" title="// add GIF //"></video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LIjhmgG4hJA?si=Hrj6u3ph35NmVNHG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - I Added the new sprite to the Player_BP
 - To make the lighting more releastic I added cast shadow in the details tab, this will make the lighting look more realistic on the character.
