@@ -22,7 +22,7 @@ Ori is a 2.5 Platformer game where the main character 'Ori' traverses through th
 - "Ori and the Blind Forest's gameplay combines platformer elements with open-world exporation (metroidvania). Players control Ori who can jump, run on walls and use various abilities to overcome obstacles and fight enemies."
 Find Sources that talk about oris gameplay mechanics."
 
-Learning by playing: Ori and the Blind Forest developer tips - ProgKids. https://www.progkids.com/en/blog/uchimsya-igraya-sovety-razrabotchikam-po-igre-ori-and-the-blind-forest. Accessed 7 Apr. 2025.
+(ProgKids, 2025)
 
 
 - Inside:
@@ -31,7 +31,7 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
 
 “Sequences were often shuffled around, broken apart and recombined to suit the evolution of the story and to make sure that mechanics and visual cues were shown to the player in the correct order, setting up subsequent encounters,” says Bogdan.
 
-Contributor, Alex Wiltshire, and Alex Wiltshire. ‘How Inside’s Levels Were Designed’. Rock, Paper, Shotgun, 12 May 2017. www.rockpapershotgun.com, https://www.rockpapershotgun.com/how-insides-levels-were-designed.
+(Wiltshire, 2017)
 
 
 
