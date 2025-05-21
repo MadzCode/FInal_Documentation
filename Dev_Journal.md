@@ -330,7 +330,7 @@ https://github.com/user-attachments/assets/40c8aa02-0b36-4c1b-8484-994910464370
 - Waveus. “Beer Bottle Asset.” Fab, July 2022, https://www.0fab.com/listings/9c616a84-4cd7-4823-9e2e-db202d7eb604. Accessed 27 February 2025.
 - “70s Geometric Wovn Rug - Low Poly PBR.” Fab, Jan. 2025, https://www.fab.com/listings/ca91f1b4-27bb-4695-af63-c5afe27064fa. Accessed
 - Crea2res.com. “Bed with UV.” Fab, July 2023, https://www.fab.com/listings/7d32bd1c-5a67-46b4-bfa7-1a06e51d544a. Accessed 27 February 2025.
-- 
+
 
 ### IN-GAME SFX:
 - Download Free Thud Sound Effects | Mixkit. https://mixkit.co/free-sound-effects/thud/. Accessed 17 March 2025.
