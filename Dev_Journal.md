@@ -12,8 +12,6 @@
 ## Research
 
 ### Methodology  
-- Identify relevant sources for the project, including articles, documentation, talks, and games.  
-- Detail how these sources have informed your practical work and influenced your approach.
 
 ### Game Sources  
 - Ori and the Blind Forest:
