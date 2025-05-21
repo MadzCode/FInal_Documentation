@@ -196,7 +196,7 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
 - Describe how these issues were addressed. If any issues were not resolved, provide a clear justification for leaving them unaddressed.
 
 ## Technical Difficulties
-<!-- Here is where you need to specify any issues your encountered and how you fixed or didnt fix them. its ok not to be able to fix things, you can justify why you didnt fix, maybe time, maybe its noticable, etc. -->
+
 ## Camera System
 
 - The camera is not looking at the correct location, cannot rotate camera
