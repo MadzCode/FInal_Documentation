@@ -211,7 +211,8 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
 
 ## Flash Light System
 - After asking Copilot to help me create a Flashlight I noticed a bug, the code would work perfectly when I turned to face the left the code would not work as intended.
-<video controls src="Broken Flashlight.mp4" title="Title"></video>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i1m2L-XBxxM?si=4aWbxsiQ99065Ak3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ## Outcomes
 
 ### Source Code/Project Files
