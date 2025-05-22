@@ -54,13 +54,23 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
 
 ## Shadow Platform Mechanic
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T3Vou11FGss?si=nQEo29AhNXc_3S8e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Light Dash Mechanic
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nV_JGMNRGpc?si=WBpZ5adjccfrnpQZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Moving Spline Platforms
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0_W6YV_8k?si=oN2JOLi6XQ-FmMEL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Credits Screen
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LmLjLQbyq-4?si=MWRgjL0kuGvImjc4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Main Menu
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ff67XtqgSxc?si=oO6rh08KbM0fN9p2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Jump Pad
 
@@ -299,6 +309,13 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
 - Aspland, Matt. n.d. “How to Create A Physics Based Rope Swing System in Unreal Engine 5 (Tutorial).” Youtube. Accessed May 17, 2025. https://www.youtube.com/watch?v=zkxCzJKrV2s&list=LL&index=2&t=1968s.
 
 - Aspland, Matt. n.d. “Door and Key System | How to Open A Locked Door with A Key in Unreal Engine 5 (Tutorial).” Youtube. Accessed May 17, 2025. https://www.youtube.com/watch?v=Bcle9sSS4Oo&list=LL&index=1.
+
+- Jax1m. n.d. “How to Spawn a Platform You Can Jump On - Unreal Engine Tutorial.” Youtube. Accessed May 22, 2025. https://www.youtube.com/watch?v=T3Vou11FGss&t=1096s.
+
+- Code, Cobra. n.d. “Dodge Roll and Dash Step Movement - Unreal Engine 5 Tutorial.” Youtube. Accessed May 22, 2025. https://www.youtube.com/watch?v=nV_JGMNRGpc&t=83s.
+
+- Games, Gorka. n.d. “How to Make a Credits Menu in Unreal Engine 5.” Youtube. Accessed May 22, 2025. https://www.youtube.com/watch?v=LmLjLQbyq-4.
+
 
 
  method](https://mylibrary.uca.ac.uk/referencing).  
