@@ -140,6 +140,7 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gpnFGT_jYT0?si=hJIuUY5tdEdjAvWb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
 ## Flickering Light System
 - for a simple puzzle idea I created a light that toggles every 3 seconds. //put vid here//
 
@@ -227,14 +228,8 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
 
 ### Video Demonstration
 
-# Camera System
-https://github.com/user-attachments/assets/40c8aa02-0b36-4c1b-8484-994910464370
-- First Attempt
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vRedYt10UQk?si=U3wlJzXxRol5LBZO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-
-- Embed a video or provide a link to a recorded demonstration of your project in action.  
-- The video should showcase key features, functionality, and any unique elements of your project.  
-- Include a brief commentary or text overlay in the video to explain the different aspects of your project as they are shown.
 
 ## Reflection
 - After working in a group I realised that choosing reliable team members is a must, having just one team member not play their part can have a devastating effect on the production progress and put more work onto my plate in the longrun. After some thought my next game will be a solo project and I may use the original idea of my prototype.
