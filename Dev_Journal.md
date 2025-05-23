@@ -121,12 +121,16 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/78SvbqNOx20?si=eJhKqkQgd9OX1Gfr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+- Later on the designer changed the old system to a spine camera system where the camera moves to different set of prepositioned points. This allows the player to experience smooth camera transitions instead of my snappier ones.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bRS4t7PGh1k?si=6P62JbOtYXHr9uGi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # 2D Movement
 
 - I decided to remake the third person character template with my own 2D one.
 - I created this using the paper ZD plugin to create 2D characters faster and more easily.
 <!-- This is good, you should research this plugin in your research section. -->
-- Added Paper ZD https://www.fab.com/listings/6664e3b5-e376-47aa-a0dd-f7bbbd5b93c0 // Fix Citation //
+- Added Paper ZD (Critical Failure Studio, 2017.)
 - Made the Player_BP
 - I then made a PaperZDCharacter class.
  - Added Animation Source 
@@ -339,6 +343,7 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
 
 - Unreal University. n.d. “How to Make an Options Menu - Unreal Engine 5 Tutorial.” Youtube. Accessed May 22, 2025. https://www.youtube.com/watch?v=Ff67XtqgSxc&t=103s.
 
+- Critical Failure Studio. n.d. “PaperZD.” Accessed May 16, 2025. https://www.fab.com/listings/6664e3b5-e376-47aa-a0dd-f7bbbd5b93c0.
 
 
 
