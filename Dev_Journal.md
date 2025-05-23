@@ -11,6 +11,19 @@
 
 ## Research
 
+
+At Death we part was inspired by a few different games those being:
+
+## Paper Mario
+
+The games artistic insperation relies heavily on Paper Mario (Nintendo of Europe SE, 2004)
+
+## Little Nightmares
+
+## Inside
+
+## Ori and the Blind forest
+
 ### Methodology  
 
 ### Game Sources  
@@ -365,6 +378,9 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
 - Learning by playing: Ori and the Blind Forest developer tips - ProgKids. https://www.progkids.com/en/blog/uchimsya-igraya-sovety-razrabotchikam-po-igre-ori-and-the-blind-forest.. Accessed 7 April 2025.
 
 - OUVIO. n.d. “Paper ZD - How to Create a 2D Character in Unreal Engine 5.” Youtube. Accessed May 16, 2025. https://www.youtube.com/watch?v=0f1_qSXbqAI.
+
+- “Paper Mario: The Thousand-Year Door.” n.d. Nintendo of Europe SE. Accessed May 23, 2025. https://www.nintendo.com/en-gb/Games/Nintendo-Switch-games/Paper-Mario-The-Thousand-Year-Door-2445545.html?srsltid=AfmBOops6sVBurHRG6xs1V7REV2Bnh4vJjlWssBjWLhwUUTvyxvw4w2L.
+
 
 - Unreal, E. Z. n.d. “Unreal Engine 5 Tutorial: How to Create a Floating Object in Space - Make Object Go up & Down.” Youtube. Accessed May 22, 2025. https://www.youtube.com/watch?v=mGPIehrzauM.
 
