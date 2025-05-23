@@ -340,7 +340,22 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
 
 ## Dialogue System
 
+- To make the game more immersive I made a dialogue system.
+- To create the script I used a CSV file then imported it into Unreal to use as the dialogue sheet. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1GnCaqmOmhQ?si=qBwo4DZcJ9nFjqMF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bRm89GgDEjs?si=KozPjljsTKOe6T60" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- The text was later altered for the new dialogue that you see now.
+
 ## NPC FLoating animation
+
+- I added a small animation onto the tutorial ghosts in the background and also added a collision box when you are close to show you can talk to them.
+
+<iframe src="https://blueprintue.com/render/kvudy0uj/" scrolling="no" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UQ0Q8q1ttj0?si=iJpxym09eeRe-kre" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ### New Approaches  
 
@@ -357,7 +372,22 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
 
 - I have scrapped the 2 player system and instead I have one sprite followed by a small ghost to give the same effect.
 
+## Story
+
+- Originally the game was supposed to have 5 levels each representing a different stage of grief which had to unfortunetly be scrapped, as well as the old dialogue system as it did not make any sense anymore. Then the game got cut down to 3 levels but the third level didn't really get worken on. It was then cut down to one level but again it was never really worked on so it had to be scrapped. It is now down to one level with all of the story gone besides some subtle hints.
+
+## Flashlight System
+
+- Unfortunetly the flashlight system had to be completely removed from the game as it was useless. It was originally going to be used on ghosts and turn them into normal platforms when the light was shining on it but due to time constraints it had to be scrapped.
+
+## Rope Swing
+
+- The rope swing had to be repurposed into a jump pad as the rope which was Unreal's own wire was very hard to work with and making a jump pad was faster.
+
 ### Testing
+
+- During testing I was made aware of many bugs such as Infinite shadow platforms, Camera issues, 
+- 
 - Document the user testing conducted, specifying the type of tests used (e.g., automated testing, guided user testing, blind testing).  
 - Present feedback or issues identified during testing, using graphs, tables, or visual aids to summarise results.  
 - Describe how these issues were addressed. If any issues were not resolved, provide a clear justification for leaving them unaddressed.
