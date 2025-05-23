@@ -127,20 +127,17 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
 
 # 2D Movement
 
-- I decided to remake the third person character template with my own 2D one.
-- I created this using the paper ZD plugin to create 2D characters faster and more easily.
-<!-- This is good, you should research this plugin in your research section. -->
-- Added Paper ZD (Critical Failure Studio, 2017.)
-- Made the Player_BP
-- I then made a PaperZDCharacter class.
- - Added Animation Source 
-- Added PaperZD AnimBP
-- Imported the textures and converted them into sprites
- - I turned all of the sprites into flipbooks to allow me to animate them.
+ - I decided to remake the old third person character template with a 2D one created by the artist of the group. This new 2D character is a better fit for the 2.5D astetic that we are going for in this game.
+ - I animated this character by using the paperZD plugin (Critical Failure Studio, 2017.) which allows for easier implementation of 2D characters.
+ - To implement the character into a PaperZDCharacter class I first made the sprites into a flipbook and animated it changed the frame every 6 frames for 15 frames.
 
- <!-- waaay to many images, you only need maybe a gif of the character moving around, or being animated in paperzd -->
+![alt text](<GIF/Early Walking Anim.gif>)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-XqGaaHGAM?si=dYtgSdPJiM6dCh2v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+ 
 
  ### Animation Preview
+ 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LIjhmgG4hJA?si=Hrj6u3ph35NmVNHG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - I Added the new sprite to the Player_BP
