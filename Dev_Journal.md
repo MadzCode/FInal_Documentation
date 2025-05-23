@@ -179,6 +179,7 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
 ## Shadow Platform Mechanic
 
 - I was tasked with creating a platform that spawns under the player 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OlqX7w6WZM8?si=QZUzs6syOdBDekgO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe src="https://blueprintue.com/render/e3ixd4qt/" scrolling="no" allowfullscreen></iframe>
@@ -195,7 +196,21 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
 
 ## Light Dash Mechanic
 
+- I was also tasked with creating a light dash mechanic to give the player more manouverability and to allow the light state character to have a state of its own.
+
+- I created a simple dash that allows the player to temporarily increase their momentum.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k_K-ysj9XV4?si=-otZ2BNojR6YH501" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- The designer rewrote my code after this to different dash code that makes you stop midair whilst dashing temporarily.
+
 ## Moving Spline Platforms
+
+- To create more of a enjoyable platforming experience I created some moving spline platforms to allow for more interesting levels.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bWCot5U_zLQ?si=U8_y3sxRXvFtz7Dp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe src="https://blueprintue.com/render/ix-6jzzi/" scrolling="no" allowfullscreen></iframe>
 
 ## Credits Screen
 
