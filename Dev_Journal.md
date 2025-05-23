@@ -11,6 +11,17 @@
 ## Research
 
 
+### Methodology  
+
+- Since I am working in a group project I feel the best methodology would be Agile methodology.
+
+- "Agile is an approach that divides work into phases, emphasizing continuous delivery and improvement. The Agile methodology benefits teams by enabling adaptive planning, rapid execution, and ongoing evaluation, leading to more responsive and successful outcomes." (Atlassian, n.d.)
+
+- With this in mind the group project should go smoothly as long as everyone sticks to their deadlines. I will be hosting constant meetings weekly to help ensure everyone is where they need to be and if there is any trouble I can quickly fix it, this is to avoid people keeping their issues to theirself which could hinder the entire group.
+
+### Game Mechanic Sources  
+
+
 At Death we part was inspired by a few different games those being:
 
 ## Paper Mario
@@ -27,23 +38,20 @@ At Death we part was inspired by a few different games those being:
 
 - Litle Nightmares excelles at adding suspence to always keep the player on edge. whether that would be falling platforms or hiding from a mutated blind man. Its way of storytelling intreged me and I hope to use that immersive storytelling inside my game as well.
 
-### Methodology  
 
-- Since I am working in a group project I feel the best methodology would be Agile methodology.
+### Academic Sources  
 
-- "Agile is an approach that divides work into phases, emphasizing continuous delivery and improvement. The Agile methodology benefits teams by enabling adaptive planning, rapid execution, and ongoing evaluation, leading to more responsive and successful outcomes." (Atlassian, n.d.)
-
-- With this in mind the group project should go smoothly as long as everyone sticks to their deadlines. I will be hosting constant meetings weekly to help ensure everyone is where they need to be and if there is any trouble I can quickly fix it, this is to avoid people keeping their issues to theirself which could hinder the entire group.
-
-### Game Mechanic Sources  
 - Ori and the Blind Forest:
 Ori is a 2.5 Platformer game where the main character 'Ori' traverses through the world gaining powerups as he goes. I found the 2.5D artstyle to look very interesting with this almost storybook looking artstyle.
 
-- "Ori and the Blind Forest's gameplay combines platformer elements with open-world exporation (metroidvania). Players control Ori who can jump, run on walls and use various abilities to overcome obstacles and fight enemies."
+
+
+- "Ori and the Blind Forest's gameplay combines platformer elements with open-world exporation. Players control Ori who can jump, run on walls and use various abilities to overcome obstacles and fight enemies."
 Find Sources that talk about oris gameplay mechanics."
 
 (ProgKids, 2025)
 
+- Learning this about Ori gives me ideas for my project such as, creating a fast platformer game with abilities you gain whilst playing the game.
 
 - Inside:
 Inside is a 2.5D game where the player must travel though a bleak empty world to using the environment to put together the story and figure out the characters objective.
@@ -53,11 +61,7 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
 
 (Wiltshire, 2017)
 
-
-
-### Academic Sources  
-- Research academic papers, books, or articles that provide theoretical guidance for your project. Include a brief summary of each source.  
-- Describe how the academic research applies to your project and shapes your design and development decisions.
+- Inside gives me the idea to make the game gritter and to add some horror elements to the game to make it more memorable.
 
 ### Documentation Sources  
 
@@ -433,9 +437,9 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
 - Include a brief description of the files provided, highlighting key components or any instructions required to run the project.
 
 ### Build Link
-- Share a link to a playable or executable build of your project.  
-- Ensure the build is accessible across relevant platforms and is publicly accessible.  
-- Include any necessary instructions for running the build, such as system requirements or installation steps.
+
+- Itch Link:
+https://patchyprogram.itch.io/at-death-we-part-game-test
 
 ### Video Demonstration
 
@@ -457,14 +461,13 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
 
 - I liked the challenge of creating a 2.5D game as it allowed me to learn how to do some things differently such as, changing the camera and movement systems.
 
-- (Add Screenshots and other sources)
-
 ### Group Positive Analysis
 - Working as a group has been positive in some ways as it is nice to give everyone their designated tasks to help split the workload as a whole.
 
 - I enjoyed managing my group and giving them different asignments to help improve the game, from asking my artist to create different assets that will help improve the games overall storytelling, to asking my designer to create music using the different themes and instruments I chose to make the music more immersive and emotional.
 
-- (add screenshots and other sources to help prove these statements)
+<img src="https://github.com/MadzCode/FInal_Documentation/blob/main/Images/Screenshot%202025-05-23%20084349.png?raw=true" width="75%"/>
+
 
 ### Negative Analysis
 - Working on this project has taught me about the importance of team communication, as I have learned that miscommunication or missed group deadlines can almost halt the team workflow.
