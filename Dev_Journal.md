@@ -279,9 +279,31 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-ZUjALpsXGM?si=WSR6SgsMV42_Zs-w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Main Menu
+## Main Menu 
+
+- To add functionality to the game I created a main manu and pause screen to the game to allow them to change settings, pause, or quit the game.
+
+- Originally I had a base button and all of the buttons would be the same colour but the designer added some sprites to the buttons to maike them look more stylised.
+
+<iframe src="https://blueprintue.com/render/khwz6ti_/" scrolling="no" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/osoZx_PaqaQ?si=egav6R21mA15iSlU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Settings Menu
+
+- To allow the players to change the resolution and graphics settings in the game I created a simple settings screen. It is very basic but it allows for basic changes and to be able to quit the game.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/osoZx_PaqaQ?si=Xq_AxUo1DzkFlIyf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Jump Pad
+
+- Originally this was intended to be a jump pad, but it got reused as a jump pad to avoid repeated issues.
+
+- Once the player presses spacebar on the green marked areas they will be shot to the left and have their controls temporarily disabled so they do not accidently move and break the momentum.
+
+<iframe src="https://blueprintue.com/render/c8a_2_4q/" scrolling="no" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/loDw07SkyNY?si=lDhXHBPCSmim0EoM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Flying Ghost AI
 
