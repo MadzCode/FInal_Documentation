@@ -113,35 +113,48 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LmLjLQbyq-4?si=MWRgjL0kuGvImjc4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- This t
+- This tutorial taught me how to use widget animations, this allowed me to credit everyone who was involved with or helped with the project.
 
 ## Main Menu / Settings
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ff67XtqgSxc?si=oO6rh08KbM0fN9p2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kumZj_mov58?si=cHoM_MIwa5n_8L5Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- This tutorial taught me how to create a simple but effective main menu system.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ff67XtqgSxc?si=W98w7lApiXjXsJDj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Jump Pad
+- This options menu taught me the basics of creating a functional settings menu.
+
+## Rope Swing / Jump Pad
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zkxCzJKrV2s?si=4njGgqhNJN-uhFPn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- This rope swing tutorial taught me how to create a simple swinging mechanic. It was eventually repurposed to a Jump pad as the rope was very glitchy.
 
 ## Door / Key Mechanic
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Bcle9sSS4Oo?si=iO3Ezj4QdcWu2aKI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+- I have used this door and key mechanic before and rewatched it again as a refresher. It allowed me to easily implement a multi key system as well.
+
 ## Dialogue System
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Z8q1eMU2Gjo?si=zVv5vuLgB69yGFrY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+- This tutorial allowed me to create a simple dialogue system to give the player tips and to give the ghost character more personality.
+
 ## Flashlight Mechanic
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Fn9M77PW9oA?si=tIso0J9xniW0LeTS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- This tutorial allowed me to understand the basics of a flashlight, I had to do more research on my own on hoe to apply this to 3D though.
 
 ## Implementation
 
 # Camera Mechanic
 
 - For the Camera Mechanic I want the camera to be on a static spline, when the player leaves the room the camera will fly to the next room.
+
 -![image](https://github.com/user-attachments/assets/685477d2-3b9f-4bc2-ab77-65d83dccc652)
 ![image](https://github.com/user-attachments/assets/5b969e1e-b0e8-49c0-9ba4-1785cb8c729f)
 
