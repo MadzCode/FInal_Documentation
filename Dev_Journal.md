@@ -408,8 +408,7 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
 
 - “Wooden Shelf (Big).” Fab, Quixel, Sept. 2024, https://www.fab.com/listings/254cf201-9058-4faf-a1bf-1571c8ad0778.. Accessed 27 February 2025.
 
-- “Wooden Shelf (Small).” Fab, Quixel, Sept. 2024, https://www.fab.com/listings/7888c588-0240-4f4e-b2c8-78b96548b6ba..
-
+- “Wooden Shelf (Small).” Fab, Quixel, Sept. 2024, https://www.fab.com/listings/7888c588-0240-4f4e-b2c8-78b96548b6ba.. Accessed 27 February 2025.
 
 ### IN-GAME SFX:
 - Download Free Thud Sound Effects | Mixkit. https://mixkit.co/free-sound-effects/thud/. Accessed 17 March 2025.
