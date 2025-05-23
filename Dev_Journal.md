@@ -387,10 +387,25 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
 ### Testing
 
 - During testing I was made aware of many bugs such as Infinite shadow platforms, Camera issues, 
-- 
-- Document the user testing conducted, specifying the type of tests used (e.g., automated testing, guided user testing, blind testing).  
-- Present feedback or issues identified during testing, using graphs, tables, or visual aids to summarise results.  
-- Describe how these issues were addressed. If any issues were not resolved, provide a clear justification for leaving them unaddressed.
+- I mainly let the playtesters blind test as I didn't want to hold their hands through the whole game. I noticed alot of the struggled with the first set of jumps so I tried to make them easier by reajusting.
+- Because of the jumps manmy testers thought it was a bit hard to pass though the section.
+
+<img src="https://github.com/MadzCode/FInal_Documentation/blob/main/Images/Screenshot%202025-05-23%20082556.png?raw=true" width="75%"/>
+
+- These were some of the common complaints, such as no background music which was later added, Fixed dialogue, and text wrapping.
+- I also did fix the precise jump but I found out too late that it was broken again and I do not have time to fix it anymore.
+
+<img src="https://github.com/MadzCode/FInal_Documentation/blob/main/Images/Screenshot%202025-05-23%20083029.png?raw=true" width="75%"/>
+
+## Broken tester videos
+
+- One of my testers documented all of the bugs and sent me recordings so I could reflect back onto them.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_917Vy8f4N8?si=i6uqai-oB7gBBgBT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KDCnWeRJBCk?si=Oy37BRuVzxGddGIW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gDTO8PXeL8g?si=TQEjbI9NHLjorJDD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Technical Difficulties
 
