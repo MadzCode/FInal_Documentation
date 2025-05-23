@@ -1,7 +1,6 @@
 # Development Commentary Template
 
 ## Project Outline
-- ~~At Death We Part is a 2.5D platformer with light and dark mechanics to help the player progress in the story. There is two characters one who has light powers and can only stand in light, and the other who has dark powers and can only stand in darkness.~~ 
 
 - At Death we part is a 2.5D Platformer that utalises light and dark mechanics to help the player progress through the level. The character will have two states; A light state and a dark state, this allows the player to pass through the shadow areas whislt in the dark state and the light areas whist in the dark state. This then allows the player to stand on platforms of the oppisite state (Light character can stand on the dark areas and vise versa).
 
