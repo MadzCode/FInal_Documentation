@@ -164,7 +164,7 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
 ## Cursor mechanic
 - To make the game feel more stylisied I added a custom cursor to the game, this step was easy but I am eventually going to make the cursor change when clicked to be more visual.
 
-<img src="https://raw.github.com/MadzCode/FInal_Documentation/blob/main/Images/Screenshot%202025-05-23%20022627.png" width="75%"/>
+<img src="https://github.com/MadzCode/FInal_Documentation/blob/main/Images/Screenshot%202025-05-23%20022627.png?raw=true" width="75%"/>
 ## Animated shadow texture 
 - I animated a simple animation for the shadow platforms. I requested for the shadow to look more like squiggles, this helps the game to look more like a picture book that had been drawn into.
 
