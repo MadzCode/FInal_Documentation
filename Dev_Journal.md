@@ -307,7 +307,26 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
 
 ## Flying Ghost AI
 
+- After looking online I couldn't find any tutorials for a 2D flying monster, so I asked copilot about how to create it. However I wasn't given any answers so I consulted a classmate.
+
+<img src="https://github.com/MadzCode/FInal_Documentation/blob/main/Images/Screenshot%202025-05-23%20072736.png?raw=true" width="75%"/>
+
+
+- Thanks to my fellow student Evie Green I was able to create a working 2D flying ghost.
+
+- The Ghost now will chase you whilst you are in its collision box and kill you when it touches you.
+
+<iframe src="https://blueprintue.com/render/koutyw-_/" scrolling="no" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Cs_n99ztUpw?si=Ija3wOIChEFyJ-ZD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Ground Ghost
+
+- This ground ghost is just a simple flipbook that changes into a angry state if the player gets too near to it.
+
+<iframe src="https://blueprintue.com/render/kuh_a0cg/" scrolling="no" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GrrAQIRE5ME?si=Wq3nTlXXfcatCDuE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Door / Key Mechanic
 
