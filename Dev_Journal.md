@@ -330,6 +330,14 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
 
 ## Door / Key Mechanic
 
+- To give the game a objective I created a door and key system, the player must collect 3 keys in order to pass though the door. 
+- I thank my fellow student Evie Green for assisting me on making the 3 key mechanic work.
+
+<iframe src="https://blueprintue.com/render/omjl-uor/" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://blueprintue.com/render/brtwllr_/" scrolling="no" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hp-ivFkAs68?si=eTcKerQfKp8G4qTQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Dialogue System
 
 ## NPC FLoating animation
