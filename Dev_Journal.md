@@ -19,7 +19,7 @@ At Death we part was inspired by a few different games those being:
 
 - All of these characters have quirky personalities which makes them enjoyable to listen from and learn about.
 
-- The fun mini games also make this game truly unforgetable as you can be playing bingo one moment and fighting dragons the next 
+- The fun mini games also make this game truly unforgetable as you can be playing bingo one moment and fighting dragons the next. 
 
 ## Little Nightmares
 
@@ -29,7 +29,9 @@ At Death we part was inspired by a few different games those being:
 
 ### Methodology  
 
+- Since I am working in a group project I feel the best methodology would be Agile methodology.
 
+- "Agile is an approach that divides work into phases, emphasizing continuous delivery and improvement. The Agile methodology benefits teams by enabling adaptive planning, rapid execution, and ongoing evaluation, leading to more responsive and successful outcomes." (Atlassian, n.d.)
 
 ### Game Mechanic Sources  
 - Ori and the Blind Forest:
@@ -188,7 +190,9 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
 - To make the game feel more stylisied I added a custom cursor to the game, this step was easy but I am eventually going to make the cursor change when clicked to be more visual.
 
 <img src="https://github.com/MadzCode/FInal_Documentation/blob/main/Images/Screenshot%202025-05-23%20022627.png?raw=true" width="75%"/>
+
 ## Animated shadow texture 
+
 - I animated a simple animation for the shadow platforms. I requested for the shadow to look more like squiggles, this helps the game to look more like a picture book that had been drawn into.
 
 - I used Copilot to give me an idea of how to smoothly cycle between the frames so it looks like the squiggles are moving rather than switching in between frames.
@@ -196,7 +200,7 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
 
 ## Shadow Platform Mechanic
 
-- I was tasked with creating a platform that spawns under the player 
+- I was tasked with creating a platform that spawns under the player. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OlqX7w6WZM8?si=QZUzs6syOdBDekgO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -361,6 +365,8 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
 - Aspland, Matt. n.d. “How to Make an Object Follow A Spline Path - Unreal Engine 5 Tutorial.” Youtube. Accessed May 17, 2025. https://www.youtube.com/watch?v=fm0_W6YV_8k&list=LL&index=3.
 
 - Aspland, Matt. n.d. “How to Make A Spline-Based Side-Scroller Camera in Unreal Engine.” Youtube. Accessed May 16, 2025. https://www.youtube.com/watch?v=ZmIzHtglnMM.
+
+- Atlassian. n.d. “What Is Agile?” Atlassian. Accessed May 23, 2025. https://www.atlassian.com/agile.
 
 - blueprintUE. n.d. Accessed May 16, 2025. https://blueprintue.com/..
 
