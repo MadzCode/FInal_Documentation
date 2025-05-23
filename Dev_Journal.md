@@ -294,53 +294,55 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
 
 
 ## Bibliography  
-- Learning by playing: Ori and the Blind Forest developer tips - ProgKids. https://www.progkids.com/en/blog/uchimsya-igraya-sovety-razrabotchikam-po-igre-ori-and-the-blind-forest. Accessed 7 April 2025.
-
-- Contributor, Alex Wiltshire, and Alex Wiltshire. ‘How Inside’s Levels Were Designed’. Rock, Paper, Shotgun, 12 May 2017. www.rockpapershotgun.com, https://www.rockpapershotgun.com/how-insides-levels-were-designed. Accessed 7 April 2025.
-
-- Aspland, Matt. n.d. “How to Make A Spline-Based Side-Scroller Camera in Unreal Engine.” Youtube. Accessed May 16, 2025. https://www.youtube.com/watch?v=ZmIzHtglnMM.
-
-- GameDev, Ugur Batur. n.d. “Unreal Engine 5: Create a Resident Evil Style Camera System!” Youtube. Accessed May 16, 2025. https://www.youtube.com/watch?v=O7SjrIrY_io.
-- OUVIO. n.d. “Paper ZD - How to Create a 2D Character in Unreal Engine 5.” Youtube. Accessed May 16, 2025. https://www.youtube.com/watch?v=0f1_qSXbqAI.
-
-- Aspland, Matt. n.d. “How to Create and Use A Custom Mouse Cursor in Unreal Engine 5 (Tutorial).” Youtube. Accessed May 16, 2025. https://www.youtube.com/watch?v=8VZtDdKApeM.
-
-- “blueprintUE.” n.d. Accessed May 16, 2025. https://blueprintue.com/.
-- Critical Failure Studio. n.d. “PaperZD.” Accessed May 16, 2025. https://www.fab.com/listings/6664e3b5-e376-47aa-a0dd-f7bbbd5b93c0.
-
-- Bray, Titus. n.d. “Unreal Engine 2D Flipbooks | Beginner Tutorial.” Youtube. Accessed May 17, 2025. https://www.youtube.com/watch?v=3LsWb8pYg_s&list=LL&index=7.
- - Bray, Titus. n.d. “Unreal Engine 2D Flipbooks | Beginner Tutorial.” Youtube. Accessed May 17, 2025. https://www.youtube.com/watch?v=3LsWb8pYg_s&list=LL&index=7.
-
-- Unreal University. n.d. “How to Make A Dialogue System in Unreal Engine 5.” Youtube. Accessed May 17, 2025. https://www.youtube.com/watch?v=Z8q1eMU2Gjo&list=LL&index=5&t=1183s.
-
-- Aspland, Matt. n.d. “How to Make an Object Follow A Spline Path - Unreal Engine 5 Tutorial.” Youtube. Accessed May 17, 2025. https://www.youtube.com/watch?v=fm0_W6YV_8k&list=LL&index=3.
-
-- Aspland, Matt. n.d. “How to Create A Physics Based Rope Swing System in Unreal Engine 5 (Tutorial).” Youtube. Accessed May 17, 2025. https://www.youtube.com/watch?v=zkxCzJKrV2s&list=LL&index=2&t=1968s.
 
 - Aspland, Matt. n.d. “Door and Key System | How to Open A Locked Door with A Key in Unreal Engine 5 (Tutorial).” Youtube. Accessed May 17, 2025. https://www.youtube.com/watch?v=Bcle9sSS4Oo&list=LL&index=1.
 
-- Jax1m. n.d. “How to Spawn a Platform You Can Jump On - Unreal Engine Tutorial.” Youtube. Accessed May 22, 2025. https://www.youtube.com/watch?v=T3Vou11FGss&t=1096s.
+- Aspland, Matt. n.d. “First Person Flashlight Leads the Camera in Unreal Engine 5 | More Immersive Flashlight (Tutorial).” Youtube. Accessed May 23, 2025. https://www.youtube.com/watch?v=Fn9M77PW9oA&t=195s.
 
-- Code, Cobra. n.d. “Dodge Roll and Dash Step Movement - Unreal Engine 5 Tutorial.” Youtube. Accessed May 22, 2025. https://www.youtube.com/watch?v=nV_JGMNRGpc&t=83s.
+- Aspland, Matt. n.d. “How to Create and Use A Custom Mouse Cursor in Unreal Engine 5 (Tutorial).” Youtube. Accessed May 16, 2025. https://www.youtube.com/watch?v=8VZtDdKApeM.
 
-- Games, Gorka. n.d. “How to Make a Credits Menu in Unreal Engine 5.” Youtube. Accessed May 22, 2025. https://www.youtube.com/watch?v=LmLjLQbyq-4.
-
-- Unreal University. n.d. “How to Make an Options Menu - Unreal Engine 5 Tutorial.” Youtube. Accessed May 22, 2025. https://www.youtube.com/watch?v=Ff67XtqgSxc.
+- Aspland, Matt. n.d. “How to Create A Physics Based Rope Swing System in Unreal Engine 5 (Tutorial).” Youtube. Accessed May 17, 2025. https://www.youtube.com/watch?v=zkxCzJKrV2s&list=LL&index=2&t=1968s.
 
 - Aspland, Matt. n.d. “How to Create A Physics Based Rope Swing System in Unreal Engine 5 (Tutorial).” Youtube. Accessed May 22, 2025. https://www.youtube.com/watch?v=zkxCzJKrV2s&t=1968s.
 
+- Aspland, Matt. n.d. “How to Make an Object Follow A Spline Path - Unreal Engine 5 Tutorial.” Youtube. Accessed May 17, 2025. https://www.youtube.com/watch?v=fm0_W6YV_8k&list=LL&index=3.
 
-- Unreal University. n.d. “How to Make an Options Menu - Unreal Engine 5 Tutorial.” Youtube. Accessed May 22, 2025. https://www.youtube.com/watch?v=Ff67XtqgSxc&t=103s.
+- Aspland, Matt. n.d. “How to Make A Spline-Based Side-Scroller Camera in Unreal Engine.” Youtube. Accessed May 16, 2025. https://www.youtube.com/watch?v=ZmIzHtglnMM.
+
+- blueprintUE. n.d. Accessed May 16, 2025. https://blueprintue.com/..
+
+- Bray, Titus. n.d. “Unreal Engine 2D Flipbooks | Beginner Tutorial.” Youtube. Accessed May 17, 2025. https://www.youtube.com/watch?v=3LsWb8pYg_s&list=LL&index=7.
+
+- Bray, Titus. n.d. “Unreal Engine 2D Flipbooks | Beginner Tutorial.” Youtube. Accessed May 17, 2025. https://www.youtube.com/watch?v=3LsWb8pYg_s&list=LL&index=7.
+
+- Code, Cobra. n.d. “Dodge Roll and Dash Step Movement - Unreal Engine 5 Tutorial.” Youtube. Accessed May 22, 2025. https://www.youtube.com/watch?v=nV_JGMNRGpc&t=83s.
+
+- Contributor, Alex Wiltshire, and Alex Wiltshire. ‘How Inside’s Levels Were Designed.’ Rock, Paper, Shotgun, 12 May 2017. www.rockpapershotgun.com, https://www.rockpapershotgun.com/how-insides-levels-were-designed.. Accessed 7 April 2025.
+
+- Critical Failure Studio. n.d. “PaperZD.” Accessed May 16, 2025. https://www.fab.com/listings/6664e3b5-e376-47aa-a0dd-f7bbbd5b93c0..
+
+- GameDev, Ugur Batur. n.d. “Unreal Engine 5: Create a Resident Evil Style Camera System!” Youtube. Accessed May 16, 2025. https://www.youtube.com/watch?v=O7SjrIrY_io.
+
+- Games, Gorka. n.d. “How to Make a Credits Menu in Unreal Engine 5.” Youtube. Accessed May 22, 2025. https://www.youtube.com/watch?v=LmLjLQbyq-4.
+
+- Jax1m. n.d. “How to Spawn a Platform You Can Jump On - Unreal Engine Tutorial.” Youtube. Accessed May 22, 2025. https://www.youtube.com/watch?v=T3Vou11FGss&t=1096s.
+
+- Learning by playing: Ori and the Blind Forest developer tips - ProgKids. https://www.progkids.com/en/blog/uchimsya-igraya-sovety-razrabotchikam-po-igre-ori-and-the-blind-forest.. Accessed 7 April 2025.
+
+- OUVIO. n.d. “Paper ZD - How to Create a 2D Character in Unreal Engine 5.” Youtube. Accessed May 16, 2025. https://www.youtube.com/watch?v=0f1_qSXbqAI.
 
 - Unreal, E. Z. n.d. “Unreal Engine 5 Tutorial: How to Create a Floating Object in Space - Make Object Go up & Down.” Youtube. Accessed May 22, 2025. https://www.youtube.com/watch?v=mGPIehrzauM.
 
-- Aspland, Matt. n.d. “First Person Flashlight Leads the Camera in Unreal Engine 5 | More Immersive Flashlight (Tutorial).” Youtube. Accessed May 23, 2025. https://www.youtube.com/watch?v=Fn9M77PW9oA&t=195s.
+- Unreal University. n.d. “How to Make A Dialogue System in Unreal Engine 5.” Youtube. Accessed May 17, 2025. https://www.youtube.com/watch?v=Z8q1eMU2Gjo&list=LL&index=5&t=1183s.
+
+- Unreal University. n.d. “How to Make an Options Menu - Unreal Engine 5 Tutorial.” Youtube. Accessed May 22, 2025. https://www.youtube.com/watch?v=Ff67XtqgSxc.
+
+- Unreal University. n.d. “How to Make an Options Menu - Unreal Engine 5 Tutorial.” Youtube. Accessed May 22, 2025. https://www.youtube.com/watch?v=Ff67XtqgSxc&t=103s.
 
 
 
 
 
-- Organise your references in alphabetical order. Alternatively, you may separate them by type (e.g., academic sources, games, videos), but consistency is key.
 
 
 
@@ -354,33 +356,59 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
 
 ### IN-GAME ASSETS:
 
-- ‘Plush Carpet ’. Fab, Quixel, Oct. 2024, https://www.fab.com/listings/aea27a63-30ce-43fe-b7ec-cb9070f0ef31. Accessed 21 February 2025.
-- ‘Old Decorative Wallpaper’. Fab, Quixel, Oct. 2024, https://www.fab.com/listings/3703813d-5f77-4404-97b4-ca90aeb18f1c. Accessed 21 February 2025.
-- Dylan, Hayes. ‘Low Poly Bookshelf’. Fab, May 2022, https://www.fab.com/listings/42cfb515-8857-491f-afe6-64a119e4f2b2. Accessed 22 February 2025.
-- Ewan, Lejkowski. ‘Bed’. Fab, June 2022, https://www.fab.com/listings/8928e27e-4a23-4dfe-8654-69dd57e4ab1f. Accessed 24 February 2025.
-- Misoware. ‘Night Stand’. Fab, Nov. 2024, https://www.fab.com/listings/762ca16a-a0b6-44ab-856a-d8bcc8057909. Accessed 24 February 2025. 
-- Freepoly. ‘Old Desk’. Fab, Sept. 2023, https://www.fab.com/listings/cd82fcc2-2168-4516-9640-f2280f19b0f8. Accessed 24 February 2025.
-- 3Domino. ‘Computer’. Fav, Nov. 2020, https://www.fab.com/listings/eae4ab01-9f12-4024-bd0e-fb0e3ddd7373. Accessed 24 February 2025.
-- Max3d. ‘Chair’. Fab, Aug. 2024, https://www.fab.com/listings/3b7ff936-d17c-493b-9db3-f8a16ee0a722. Accessed 24 February 2025.
-- “Blue Book.” Fab, Quixel, Sept. 2024, https://www.fab.com/listings/84e1f0ea-e940-4475-b971-02c7504d3c01. Accessed 25 February 2025.
-- “Blue and Red Book.” Fab, Quixel, Sept. 2024, https://www.fab.com/listings/56e8f2b9-d952-4be0-9ec7-f88395559c1d. Accessed 25 February 2025.
-- “Book.” Fab, Quixel, Sept. 2024, https://www.fab.com/listings/634f4e59-7b7d-437a-8d87-cee551d779ed. Accessed 25 February 2025.
-- “Brown Decorative Book.” Fab, Quixel, Sept. 2024, https://www.fab.com/listings/1362922b-35c7-4670-8218-eca3552eac9a. Accessed 25 February 2025.
-- “Stained Brown Book.” Fab, Quixel, Sept. 2024, https://www.fab.com/listings/db197111-d2ed-4dd1-ac41-5c1ba0ef8569. Accessed 25 February 2025.
-- “White Book.” Fab, Quixel, Sept. 2024, https://www.fab.com/listings/1df85165-fccd-4405-a420-39cf81dfe996. Accessed 25 February 2025.
-- “White and Blue Book.” Fab, Quixel, Sept. 2024, https://www.fab.com/listings/c24a5dc2-af9a-4275-a0de-59fd75f55d3e. Accessed 25 February 2025.
-- Saritasa. “Game Ready | Free Bedroom Shelf.” Fab, Sept. 2023, https://www.fab.com/listings/ da44abc3-c0d1-4cb1-8062-93e1833480ac. Accessed 25 February 2025.
-- “Decorative Picture Frame.” Fab, Quixel, Sept. 2024, https://www.fab.com/listings/47eb1ea4-1142-42a9-a407-2077514b0cb7. Accessed 26 February 2025.
-- Saritasa. “Game Ready | Free Table Lamp.” Fab, Aug. 2024, https://www.fab.com/listings/e6cdd58a-8b4d-4de5-875e-255238cac458. Accessed 26 February 2025.
-- 3DBYSA. “Plant.” Fab, Nov. 2023, https://www.fab.com/listings/630c8f65-f07d-4ac3-900d-973240815d3c. Accessed 26 February 2025.
-- AllQuad. “[FREE] Pothos Potted Plant - Money Plant Asset.” Fab, July 2022, https://www.fab.com/listings/e4628735-9b65-48de-8fec-751e2257aa69. Accessed 26 February 2025.
-- “Cactus Pot.” Fab, Quixel, Sept. 2024, https://www.fab.com/listings/6179e2b8-8712-441c-ba65-59ccd01abdbe. Accessed
-- “Wooden Shelf.” (Small) Fab, Quixel, Sept. 2024, https://www.fab.com/listings/7888c588-0240-4f4e-b2c8-78b96548b6ba. Accessed 27 February 2025.
-- “Wooden Shelf.” (Big) Fab, Quixel, Sept. 2024, https://www.fab.com/listings/254cf201-9058-4faf-a1bf-1571c8ad0778. Accessed 27 February 2025.
-- “Hardwood Brown Planks PBR Material - Texture Download.” Free PBR Materials, https://freepbr.com/product/hardwood-brown-planks-pbr-material/. Accessed 16 May 2025.
-- Waveus. “Beer Bottle Asset.” Fab, July 2022, https://www.0fab.com/listings/9c616a84-4cd7-4823-9e2e-db202d7eb604. Accessed 27 February 2025.
-- “70s Geometric Wovn Rug - Low Poly PBR.” Fab, Jan. 2025, https://www.fab.com/listings/ca91f1b4-27bb-4695-af63-c5afe27064fa. Accessed
-- Crea2res.com. “Bed with UV.” Fab, July 2023, https://www.fab.com/listings/7d32bd1c-5a67-46b4-bfa7-1a06e51d544a. Accessed 27 February 2025.
+- 3DBYSA. “Plant.” Fab, Nov. 2023, https://www.fab.com/listings/630c8f65-f07d-4ac3-900d-973240815d3c.. Accessed 26 February 2025.
+
+- 3Domino. “Computer.” Fav, Nov. 2020, https://www.fab.com/listings/eae4ab01-9f12-4024-bd0e-fb0e3ddd7373.. Accessed 24 February 2025.
+
+- AllQuad. “[FREE] Pothos Potted Plant - Money Plant Asset.” Fab, July 2022, https://www.fab.com/listings/e4628735-9b65-48de-8fec-751e2257aa69.. Accessed 26 February 2025.
+
+- Crea2res.com.. “Bed with UV.” Fab, July 2023, https://www.fab.com/listings/7d32bd1c-5a67-46b4-bfa7-1a06e51d544a.. Accessed 27 February 2025.
+
+- Dylan, Hayes. “Low Poly Bookshelf.” Fab, May 2022, https://www.fab.com/listings/42cfb515-8857-491f-afe6-64a119e4f2b2.. Accessed 22 February 2025.
+
+- Ewan, Lejkowski. “Bed.” Fab, June 2022, https://www.fab.com/listings/8928e27e-4a23-4dfe-8654-69dd57e4ab1f.. Accessed 24 February 2025.
+
+- Freepoly. “Old Desk.” Fab, Sept. 2023, https://www.fab.com/listings/cd82fcc2-2168-4516-9640-f2280f19b0f8.. Accessed 24 February 2025.
+
+- Max3d. “Chair.” Fab, Aug. 2024, https://www.fab.com/listings/3b7ff936-d17c-493b-9db3-f8a16ee0a722.. Accessed 24 February 2025.
+
+- Misoware. “Night Stand.” Fab, Nov. 2024, https://www.fab.com/listings/762ca16a-a0b6-44ab-856a-d8bcc8057909.. Accessed 24 February 2025.
+
+- Saritasa. “Game Ready | Free Bedroom Shelf.” Fab, Sept. 2023, https://www.fab.com/listings/da44abc3-c0d1-4cb1-8062-93e1833480ac.. Accessed 25 February 2025.
+
+- Saritasa. “Game Ready | Free Table Lamp.” Fab, Aug. 2024, https://www.fab.com/listings/e6cdd58a-8b4d-4de5-875e-255238cac458.. Accessed 26 February 2025.
+
+- Waveus. “Beer Bottle Asset.” Fab, July 2022, https://www.0fab.com/listings/9c616a84-4cd7-4823-9e2e-db202d7eb604.. Accessed 27 February 2025.
+
+- “70s Geometric Wovn Rug - Low Poly PBR.” Fab, Jan. 2025, https://www.fab.com/listings/ca91f1b4-27bb-4695-af63-c5afe27064fa..
+
+- “Blue and Red Book.” Fab, Quixel, Sept. 2024, https://www.fab.com/listings/56e8f2b9-d952-4be0-9ec7-f88395559c1d.. Accessed 25 February 2025.
+
+- “Blue Book.” Fab, Quixel, Sept. 2024, https://www.fab.com/listings/84e1f0ea-e940-4475-b971-02c7504d3c01.. Accessed 25 February 2025.
+
+- “Book.” Fab, Quixel, Sept. 2024, https://www.fab.com/listings/634f4e59-7b7d-437a-8d87-cee551d779ed.. Accessed 25 February 2025.
+
+- “Brown Decorative Book.” Fab, Quixel, Sept. 2024, https://www.fab.com/listings/1362922b-35c7-4670-8218-eca3552eac9a.. Accessed 25 February 2025.
+
+- “Cactus Pot.” Fab, Quixel, Sept. 2024, https://www.fab.com/listings/6179e2b8-8712-441c-ba65-59ccd01abdbe..
+
+- “Decorative Picture Frame.” Fab, Quixel, Sept. 2024, https://www.fab.com/listings/47eb1ea4-1142-42a9-a407-2077514b0cb7.. Accessed 26 February 2025.
+
+- “Hardwood Brown Planks PBR Material - Texture Download.” Free PBR Materials, https://freepbr.com/product/hardwood-brown-planks-pbr-material/.. Accessed 16 May 2025.
+
+- “Old Decorative Wallpaper.” Fab, Quixel, Oct. 2024, https://www.fab.com/listings/3703813d-5f77-4404-97b4-ca90aeb18f1c.. Accessed 21 February 2025.
+
+- “Plush Carpet.” Fab, Quixel, Oct. 2024, https://www.fab.com/listings/aea27a63-30ce-43fe-b7ec-cb9070f0ef31.. Accessed 21 February 2025.
+
+- “Stained Brown Book.” Fab, Quixel, Sept. 2024, https://www.fab.com/listings/db197111-d2ed-4dd1-ac41-5c1ba0ef8569.. Accessed 25 February 2025.
+
+- “White and Blue Book.” Fab, Quixel, Sept. 2024, https://www.fab.com/listings/c24a5dc2-af9a-4275-a0de-59fd75f55d3e.. Accessed 25 February 2025.
+
+- “White Book.” Fab, Quixel, Sept. 2024, https://www.fab.com/listings/1df85165-fccd-4405-a420-39cf81dfe996.. Accessed 25 February 2025.
+
+- “Wooden Shelf (Big).” Fab, Quixel, Sept. 2024, https://www.fab.com/listings/254cf201-9058-4faf-a1bf-1571c8ad0778.. Accessed 27 February 2025.
+
+- “Wooden Shelf (Small).” Fab, Quixel, Sept. 2024, https://www.fab.com/listings/7888c588-0240-4f4e-b2c8-78b96548b6ba..
 
 
 ### IN-GAME SFX:
