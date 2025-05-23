@@ -131,7 +131,7 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
  - I animated this character by using the paperZD plugin (Critical Failure Studio, 2017.) which allows for easier implementation of 2D characters.
  - To implement the character into a PaperZDCharacter class I first made the sprites into a flipbook and animated it changed the frame every 6 frames for 15 frames.
 
-![alt text](<GIF/Early Walking Anim.gif>)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LIjhmgG4hJA?si=RBDOhCkakBwFmTBd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/n-XqGaaHGAM?si=dYtgSdPJiM6dCh2v" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
  
