@@ -125,7 +125,7 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bRS4t7PGh1k?si=6P62JbOtYXHr9uGi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-# 2D Movement
+# 2D Movement & Animation
 
  - I decided to remake the old third person character template with a 2D one created by the artist of the group. This new 2D character is a better fit for the 2.5D astetic that we are going for in this game.
  - I animated this character by using the paperZD plugin (Critical Failure Studio, 2017.) which allows for easier implementation of 2D characters.
@@ -137,18 +137,13 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
  
 
  ### Animation Preview
- 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LIjhmgG4hJA?si=Hrj6u3ph35NmVNHG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 - I Added the new sprite to the Player_BP
 - To make the lighting more releastic I added cast shadow in the details tab, this will make the lighting look more realistic on the character.
 - To ensure that this works in the matarials I added a MaskedLitSpriteMaterial so that the light works on the character correctly.
 ![alt text](image-12.png)
-### Process
-- Provide a step-by-step breakdown of your development process, including key milestones and decisions made throughout the project.  
-- Highlight any tools, frameworks, or techniques used, and explain how they contributed to the implementation.  
-- Include screenshots, diagrams, or code snippets where relevant to showcase your progress.
-
 
 ## Flash Light System
 
@@ -162,17 +157,19 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
 
 
 ## Flickering Light System
-- for a simple puzzle idea I created a light that toggles every 3 seconds. //put vid here//
+- for a simple puzzle idea I created a light that toggles every 3 seconds.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nydL_rrPxJU?si=iSorcX9ErV-XIV3J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Cursor mechanic
 - To make the game feel more stylisied I added a custom cursor to the game, this step was easy but I am eventually going to make the cursor change when clicked to be more visual.
-![alt text](<image copy.png>)
+![alt text](<Screenshot 2025-05-23 022627.png>)
 
 ## Animated shadow texture 
 - I animated a simple animation for the shadow platforms. I requested for the shadow to look more like squiggles, this helps the game to look more like a picture book that had been drawn into.
 
 - I used Copilot to give me an idea of how to smoothly cycle between the frames so it looks like the squiggles are moving rather than switching in between frames.
-![alt text](<image copy 2.png>)
+
 
 ## Shadow Platform Mechanic
 
