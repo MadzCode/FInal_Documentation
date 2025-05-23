@@ -143,13 +143,15 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
 - I Added the new sprite to the Player_BP
 - To make the lighting more releastic I added cast shadow in the details tab, this will make the lighting look more realistic on the character.
 - To ensure that this works in the matarials I added a MaskedLitSpriteMaterial so that the light works on the character correctly.
-![alt text](image-12.png)
+<img src="https://github.com/MadzCode/FInal_Documentation/blob/main/Images/image-12.png?raw=true" width="75%"/>
+
 
 ## Flash Light System
 
 - I was looking into creating a 2D flashlight for the game but I was unsure how to impliment it so I looked at copilot to help me learn about how to create it.
-![alt text](image-14.png)
-![alt text](image-15.png)
+<img src="https://github.com/MadzCode/FInal_Documentation/blob/main/Images/image-14.png?raw=true" width="75%"/>
+<img src="https://github.com/MadzCode/FInal_Documentation/blob/main/Images/image-15.png?raw=true" width="75%"/>
+
 
 - After tweaking the flashlight I managed to make it work correctly when the player turns left.
 
