@@ -39,6 +39,10 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
 
 ### Documentation Sources  
 
+## Floating Animation
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mGPIehrzauM?si=9W5hKkquwyqF04Yk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Camera Mechanic
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZmIzHtglnMM?si=jhqRReVfk8Fhn_sV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -49,6 +53,7 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
 
 ## Cursor Mechanic
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8VZtDdKApeM?si=ow2RlVm7CmGLkJtF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 - Investigate relevant documentation, tutorials, or instructional videos that provide technical insights into your tasks. Summarise the content and its relevance to your project.  
 - Explain how this technical knowledge supports your project work and guides your decision-making process.
 
@@ -68,23 +73,27 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LmLjLQbyq-4?si=MWRgjL0kuGvImjc4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-## Main Menu
+## Main Menu / Settings
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Ff67XtqgSxc?si=oO6rh08KbM0fN9p2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ff67XtqgSxc?si=W98w7lApiXjXsJDj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Jump Pad
 
-## Flying Ghost AI
-
-## Ground Ghost
-
-## Button Mechanic
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zkxCzJKrV2s?si=4njGgqhNJN-uhFPn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Door / Key Mechanic
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Bcle9sSS4Oo?si=iO3Ezj4QdcWu2aKI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Dialogue System
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z8q1eMU2Gjo?si=zVv5vuLgB69yGFrY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Flashlight Mechanic
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Fn9M77PW9oA?si=tIso0J9xniW0LeTS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Implementation
 
@@ -316,9 +325,16 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
 
 - Games, Gorka. n.d. “How to Make a Credits Menu in Unreal Engine 5.” Youtube. Accessed May 22, 2025. https://www.youtube.com/watch?v=LmLjLQbyq-4.
 
+- Unreal University. n.d. “How to Make an Options Menu - Unreal Engine 5 Tutorial.” Youtube. Accessed May 22, 2025. https://www.youtube.com/watch?v=Ff67XtqgSxc.
+
+- Aspland, Matt. n.d. “How to Create A Physics Based Rope Swing System in Unreal Engine 5 (Tutorial).” Youtube. Accessed May 22, 2025. https://www.youtube.com/watch?v=zkxCzJKrV2s&t=1968s.
 
 
- method](https://mylibrary.uca.ac.uk/referencing).  
+- Unreal University. n.d. “How to Make an Options Menu - Unreal Engine 5 Tutorial.” Youtube. Accessed May 22, 2025. https://www.youtube.com/watch?v=Ff67XtqgSxc&t=103s.
+
+- Unreal, E. Z. n.d. “Unreal Engine 5 Tutorial: How to Create a Floating Object in Space - Make Object Go up & Down.” Youtube. Accessed May 22, 2025. https://www.youtube.com/watch?v=mGPIehrzauM.
+
+- Aspland, Matt. n.d. “First Person Flashlight Leads the Camera in Unreal Engine 5 | More Immersive Flashlight (Tutorial).” Youtube. Accessed May 23, 2025. https://www.youtube.com/watch?v=Fn9M77PW9oA&t=195s.
 
 
 
