@@ -61,6 +61,8 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T3Vou11FGss?si=nQEo29AhNXc_3S8e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QH8uV0WvfCw?si=ammv98z4ULaSwDCv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Light Dash Mechanic
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nV_JGMNRGpc?si=WBpZ5adjccfrnpQZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -143,6 +145,7 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
 - I Added the new sprite to the Player_BP
 - To make the lighting more releastic I added cast shadow in the details tab, this will make the lighting look more realistic on the character.
 - To ensure that this works in the matarials I added a MaskedLitSpriteMaterial so that the light works on the character correctly.
+
 <img src="https://github.com/MadzCode/FInal_Documentation/blob/main/Images/image-12.png?raw=true" width="75%"/>
 
 
@@ -175,6 +178,21 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
 
 ## Shadow Platform Mechanic
 
+- I was tasked with creating a platform that spawns under the player 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OlqX7w6WZM8?si=QZUzs6syOdBDekgO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe src="https://blueprintue.com/render/e3ixd4qt/" scrolling="no" allowfullscreen></iframe>
+
+- after that the basics of the shadow platform was done and all that needed to be done was to add a timer onto the shadow platform to avoid being able to use the plaetforms to walk over obsticles.
+
+- A common complaint whilst game testing was that you had infinite platforms so they would just be able to walk over the obsticles to get to the end of the game.
+
+- With the help of the designer I was able to limit the amount of times the player can use the platform, I limited it to around a second. I also created some circular progress bars to go over the circular widgets that was given to me by my artist.
+
+<img src="https://github.com/MadzCode/FInal_Documentation/blob/main/Images/Screenshot%202025-05-23%20042834.png?raw=true" width="75%"/>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wbtSFCgVL2w?si=b-ibK86X8k0BbGPu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Light Dash Mechanic
 
 ## Moving Spline Platforms
@@ -189,11 +207,11 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
 
 ## Ground Ghost
 
-## Button Mechanic
-
 ## Door / Key Mechanic
 
 ## Dialogue System
+
+## NPC FLoating animation
 
 ### New Approaches  
 
@@ -340,6 +358,8 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
 - Unreal University. n.d. “How to Make an Options Menu - Unreal Engine 5 Tutorial.” Youtube. Accessed May 22, 2025. https://www.youtube.com/watch?v=Ff67XtqgSxc&t=103s.
 
 - Critical Failure Studio. n.d. “PaperZD.” Accessed May 16, 2025. https://www.fab.com/listings/6664e3b5-e376-47aa-a0dd-f7bbbd5b93c0.
+
+- The Game Dev Cave. n.d. “How to Make Circular Progress Bars in Unreal Engine (Round HP Bars).” Youtube. Accessed May 23, 2025. https://www.youtube.com/watch?v=QH8uV0WvfCw&t=3s.
 
 
 
