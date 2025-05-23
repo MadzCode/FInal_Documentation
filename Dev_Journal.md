@@ -33,6 +33,8 @@ At Death we part was inspired by a few different games those being:
 
 - "Agile is an approach that divides work into phases, emphasizing continuous delivery and improvement. The Agile methodology benefits teams by enabling adaptive planning, rapid execution, and ongoing evaluation, leading to more responsive and successful outcomes." (Atlassian, n.d.)
 
+- With this in mind the group project should go smoothly as long as everyone sticks to their deadlines. I will be hosting constant meetings weekly to help ensure everyone is where they need to be and if there is any trouble I can quickly fix it, this is to avoid people keeping their issues to theirself which could hinder the entire group.
+
 ### Game Mechanic Sources  
 - Ori and the Blind Forest:
 Ori is a 2.5 Platformer game where the main character 'Ori' traverses through the world gaining powerups as he goes. I found the 2.5D artstyle to look very interesting with this almost storybook looking artstyle.
@@ -62,6 +64,8 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
 ## Floating Animation
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mGPIehrzauM?si=9W5hKkquwyqF04Yk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- This is to help me learn how animations work 
 
 ## Camera Mechanic
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZmIzHtglnMM?si=jhqRReVfk8Fhn_sV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
