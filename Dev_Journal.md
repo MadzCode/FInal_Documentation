@@ -30,6 +30,8 @@ At Death we part was inspired by a few different games those being:
 
 ### Methodology  
 
+
+
 ### Game Mechanic Sources  
 - Ori and the Blind Forest:
 Ori is a 2.5 Platformer game where the main character 'Ori' traverses through the world gaining powerups as he goes. I found the 2.5D artstyle to look very interesting with this almost storybook looking artstyle.
@@ -380,6 +382,8 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
 - Jax1m. n.d. “How to Spawn a Platform You Can Jump On - Unreal Engine Tutorial.” Youtube. Accessed May 22, 2025. https://www.youtube.com/watch?v=T3Vou11FGss&t=1096s.
 
 - Learning by playing: Ori and the Blind Forest developer tips - ProgKids. https://www.progkids.com/en/blog/uchimsya-igraya-sovety-razrabotchikam-po-igre-ori-and-the-blind-forest.. Accessed 7 April 2025.
+
+- “Little Nightmares on Steam.” n.d. Accessed May 23, 2025. https://store.steampowered.com/app/424840/Little_Nightmares/.
 
 - OUVIO. n.d. “Paper ZD - How to Create a 2D Character in Unreal Engine 5.” Youtube. Accessed May 16, 2025. https://www.youtube.com/watch?v=0f1_qSXbqAI.
 
