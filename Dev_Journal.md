@@ -16,17 +16,21 @@ At Death we part was inspired by a few different games those being:
 
 ## Paper Mario
 
-The games artistic insperation relies heavily on Paper Mario (Nintendo of Europe SE, 2004)
+- The games artistic insperation relies heavily on Paper Mario (Nintendo of Europe SE, 2004). The 2.5D style was very visualy appealing with the 2D sprites on a 3D world. After discussing with my group it became the main characters and other NPC's main aesthetic.
+
+- All of these characters have quirky personalities which makes them enjoyable to listen from and learn about.
+
+- The fun mini games also make this game truly unforgetable as you can be playing bingo one moment and fighting dragons the next 
 
 ## Little Nightmares
 
-## Inside
+- Whilst brainstorming the game we considered many options one of those being to make this game into a puzzle platformer horror game. I suggested Little Nightmares (Little Nightmares on Steam, 2017) as this is one of the best examples of this.
 
-## Ori and the Blind forest
+- Litle Nightmares excelles at adding suspence to always keep the player on edge. whether that would be falling platforms or hiding from a mutated blind man. Its way of storytelling intreged me and I hope to use that immersive storytelling inside my game as well.
 
 ### Methodology  
 
-### Game Sources  
+### Game Mechanic Sources  
 - Ori and the Blind Forest:
 Ori is a 2.5 Platformer game where the main character 'Ori' traverses through the world gaining powerups as he goes. I found the 2.5D artstyle to look very interesting with this almost storybook looking artstyle.
 
