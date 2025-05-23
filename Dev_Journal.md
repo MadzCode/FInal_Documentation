@@ -74,34 +74,46 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/O7SjrIrY_io?si=xUh4iTc1JVeLD4Mm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- After talking to the designer I was told he wanted a static camera instead of a moving spline. This tutorial teaches me how to create a residant evil style camera mechanic which I feel could be very visualy appealingl.
+- After talking to the designer I was told he wanted a static camera instead of a moving spline. This tutorial teaches me how to create a residant evil style camera mechanic which I feel could be very visualy appealing.
 
 ## 2D Movement
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0f1_qSXbqAI?si=NKyjGC-tFWcnW6Yd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+- This tutorial was very helpful in learning how to make a 2D character in unreal. The plugin was very useful as I have never made a 2D character in unreal before and it made it very easy.
+
 ## Cursor Mechanic
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8VZtDdKApeM?si=ow2RlVm7CmGLkJtF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- Investigate relevant documentation, tutorials, or instructional videos that provide technical insights into your tasks. Summarise the content and its relevance to your project.  
-- Explain how this technical knowledge supports your project work and guides your decision-making process.
+- This tutorial taught me how to change the cursor into a more stylised one that fits more with the game.
 
 ## Shadow Platform Mechanic
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/T3Vou11FGss?si=nQEo29AhNXc_3S8e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+- This simple tutorial taught me how to put a shadow platform under my feet to help complete my shadow platform mechanic.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QH8uV0WvfCw?si=ammv98z4ULaSwDCv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- To help the game look more stylised I found this tutorial to create circular progress bars, with this I could fit the images around the round UI I was given for the light and dark cooldowns.
 
 ## Light Dash Mechanic
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nV_JGMNRGpc?si=WBpZ5adjccfrnpQZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+- This tutorial taught me how to create a simple light dash mechanic.
+
+
 ## Moving Spline Platforms
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fm0_W6YV_8k?si=oN2JOLi6XQ-FmMEL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+- This simple spline mechanic was essential for learning how to make my platforms.
+
 ## Credits Screen
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LmLjLQbyq-4?si=MWRgjL0kuGvImjc4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+- This t
 
 ## Main Menu / Settings
 
