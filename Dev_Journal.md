@@ -65,7 +65,7 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mGPIehrzauM?si=9W5hKkquwyqF04Yk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-- This is to help me learn how animations work 
+- This is to help me learn how animations work so I can then give a 'floaty animation 
 
 ## Camera Mechanic
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ZmIzHtglnMM?si=jhqRReVfk8Fhn_sV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
