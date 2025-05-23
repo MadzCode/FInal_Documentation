@@ -208,6 +208,8 @@ Inside is a 2.5D game where the player must travel though a bleak empty world to
 
 - To create more of a enjoyable platforming experience I created some moving spline platforms to allow for more interesting levels.
 
+- There originally was an issue with the verticle platforms where the platforms would spin at the the top of the spline, however with my designer we were able to figure out the issue and quickly fix it. 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bWCot5U_zLQ?si=U8_y3sxRXvFtz7Dp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe src="https://blueprintue.com/render/ix-6jzzi/" scrolling="no" allowfullscreen></iframe>
